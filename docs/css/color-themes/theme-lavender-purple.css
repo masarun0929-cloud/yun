@@ -1,0 +1,110 @@
+/* Lavender Purple: elegant, soft, and dreamy. Load after css/theme.css. */
+
+:root,
+:root[data-theme="light"],
+:root[data-theme="auto"] {
+  color-scheme: light;
+  --bg-1: #f8f4ff;
+  --bg-2: #ded2ff;
+  --bg-radial-1: #ffffff;
+  --bg-radial-2: #ffe0ef;
+  --surface: #ffffff;
+  --surface-2: #fbf8ff;
+  --surface-3: #eee7ff;
+  --surface-glass: rgba(255, 255, 255, 0.86);
+  --border: #d1c1f5;
+  --border-soft: #e8defa;
+  --border-strong: #a98be4;
+  --ink: #3f315c;
+  --ink-soft: #6b5a8b;
+  --ink-mute: #8d80a7;
+  --primary: #7b5dcc;
+  --primary-strong: #5f42aa;
+  --primary-soft: #eee7ff;
+  --accent: #df719a;
+  --accent-strong: #b94e77;
+  --accent-soft: #ffe0ef;
+  --gold: #f4c44a;
+  --silver: #c7c5d2;
+  --bronze: #ca9672;
+  --green-bg: #e2f4e3;
+  --green-text: #4b8652;
+  --orange-bg: #fee6d5;
+  --orange-text: #ad6530;
+  --red: #d94362;
+  --shadow-sm: 0 2px 8px rgba(123, 93, 204, 0.14);
+  --shadow: 0 8px 24px rgba(123, 93, 204, 0.20);
+  --shadow-lg: 0 16px 40px rgba(123, 93, 204, 0.26);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root[data-theme="auto"] {
+    color-scheme: dark;
+    --bg-1: #171326;
+    --bg-2: #29203f;
+    --bg-radial-1: #43336d;
+    --bg-radial-2: #482238;
+    --surface: #211b33;
+    --surface-2: #2a2240;
+    --surface-3: #352b50;
+    --surface-glass: rgba(33, 27, 51, 0.86);
+    --border: #4f426f;
+    --border-soft: #44385f;
+    --border-strong: #7b68ad;
+    --ink: #f3edff;
+    --ink-soft: #d4c8ec;
+    --ink-mute: #a99cc8;
+    --primary: #b89cff;
+    --primary-strong: #d6c7ff;
+    --primary-soft: #44356f;
+    --accent: #ff9abb;
+    --accent-strong: #ffc2d6;
+    --accent-soft: #51283b;
+    --gold: #f4c44a;
+    --silver: #d8d3e3;
+    --bronze: #d49a6a;
+    --green-bg: #24422e;
+    --green-text: #8bd99b;
+    --orange-bg: #4e2d1c;
+    --orange-text: #ffb58b;
+    --red: #ff748c;
+    --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.40);
+    --shadow: 0 8px 24px rgba(0, 0, 0, 0.50);
+    --shadow-lg: 0 16px 40px rgba(0, 0, 0, 0.60);
+  }
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg-1: #171326;
+  --bg-2: #29203f;
+  --bg-radial-1: #43336d;
+  --bg-radial-2: #482238;
+  --surface: #211b33;
+  --surface-2: #2a2240;
+  --surface-3: #352b50;
+  --surface-glass: rgba(33, 27, 51, 0.86);
+  --border: #4f426f;
+  --border-soft: #44385f;
+  --border-strong: #7b68ad;
+  --ink: #f3edff;
+  --ink-soft: #d4c8ec;
+  --ink-mute: #a99cc8;
+  --primary: #b89cff;
+  --primary-strong: #d6c7ff;
+  --primary-soft: #44356f;
+  --accent: #ff9abb;
+  --accent-strong: #ffc2d6;
+  --accent-soft: #51283b;
+  --gold: #f4c44a;
+  --silver: #d8d3e3;
+  --bronze: #d49a6a;
+  --green-bg: #24422e;
+  --green-text: #8bd99b;
+  --orange-bg: #4e2d1c;
+  --orange-text: #ffb58b;
+  --red: #ff748c;
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.40);
+  --shadow: 0 8px 24px rgba(0, 0, 0, 0.50);
+  --shadow-lg: 0 16px 40px rgba(0, 0, 0, 0.60);
+}

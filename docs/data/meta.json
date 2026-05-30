@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-05-27T22:23:12.189Z",
+  "channels": {
+    "new": {
+      "title": "さざなみゆん　歌唱データベース",
+      "updateText": "更新日：2026/05/27",
+      "updateDate": "2026-05-27",
+      "total": 1306,
+      "repertoire": 474,
+      "streams": 68,
+      "avgPerStream": 19.5,
+      "channelId": "new",
+      "channelLabel": "歌った曲リスト",
+      "keyPublished": false
+    }
+  },
+  "combined": {
+    "title": "さざなみゆん　歌唱データベース",
+    "updateText": "更新日：2026/05/27",
+    "updateDate": "2026-05-27",
+    "total": 1306,
+    "repertoire": 474,
+    "streams": 68,
+    "avgPerStream": 19.5,
+    "channelId": "new",
+    "channelLabel": "歌った曲リスト",
+    "keyPublished": false
+  }
+}

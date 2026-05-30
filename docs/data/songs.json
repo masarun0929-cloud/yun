@@ -1,0 +1,7117 @@
+{
+  "generatedAt": "2026-05-27T22:23:12.189Z",
+  "channels": {
+    "new": [
+      {
+        "sourceIndex": 1,
+        "title": "あゝオオサカdreamin'night",
+        "reading": "ああ オオサカ ドリーミン ナイト",
+        "artist": "どついたれ本舗",
+        "count": 1,
+        "key": "あゝオオサカdreamin'night__どついたれ本舗",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 2,
+        "title": "嗚呼、素晴らしきニャン生",
+        "reading": "ああ、すばらしきニャンせい",
+        "artist": "Nem feat.鏡音レン,GUMI",
+        "count": 1,
+        "key": "嗚呼、素晴らしきニャン生__nem feat.鏡音レン,gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 3,
+        "title": "ああ電子戦隊デンジマン",
+        "reading": "ああでんしせんたいデンジマン",
+        "artist": "成田賢,こおろぎ'73",
+        "count": 3,
+        "key": "ああ電子戦隊デンジマン__成田賢,こおろぎ'73",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 4,
+        "title": "EYE",
+        "reading": "アイ",
+        "artist": "Kanaria feat. GUMI",
+        "count": 2,
+        "key": "eye__kanaria feat. gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 5,
+        "title": "アイデンティティ",
+        "reading": "アイデンティティ",
+        "artist": "Kanaria feat. 初音ミク,GUMI",
+        "count": 5,
+        "key": "アイデンティティ__kanaria feat. 初音ミク,gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 6,
+        "title": "アイドル",
+        "reading": "アイドル",
+        "artist": "YOASOBI",
+        "count": 7,
+        "key": "アイドル__yoasobi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 7,
+        "title": "Iなんです",
+        "reading": "アイなんです",
+        "artist": "25時、ナイトコードで。",
+        "count": 1,
+        "key": "iなんです__25時、ナイトコードで。",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 8,
+        "title": "アイネクライネ",
+        "reading": "アイネクライネ",
+        "artist": "米津玄師",
+        "count": 2,
+        "key": "アイネクライネ__米津玄師",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 9,
+        "title": "アイのシナリオ",
+        "reading": "アイのシナリオ",
+        "artist": "CHiCO with HoneyWorks",
+        "count": 1,
+        "key": "アイのシナリオ__chico with honeyworks",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 10,
+        "title": "愛迷エレジー",
+        "reading": "あいまいエレジー",
+        "artist": "DECO*27 feat.marina",
+        "count": 1,
+        "key": "愛迷エレジー__deco*27 feat.marina",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 11,
+        "title": "アイラビューアイニジュー",
+        "reading": "アイラビューアイニジュー",
+        "artist": "KEI feat.初音ミク",
+        "count": 2,
+        "key": "アイラビューアイニジュー__kei feat.初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 12,
+        "title": "アイロニ",
+        "reading": "アイロニ",
+        "artist": "すこっぷ feat. 初音ミク",
+        "count": 2,
+        "key": "アイロニ__すこっぷ feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 13,
+        "title": "アイワナムチュー",
+        "reading": "アイワナムチュー",
+        "artist": "MAISONdes feat. asmi, すりぃ",
+        "count": 2,
+        "key": "アイワナムチュー__maisondes feat. asmi, すりぃ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 14,
+        "title": "愛をこめて花束を",
+        "reading": "あいをこめてはなたばを",
+        "artist": "Superfly",
+        "count": 2,
+        "key": "愛をこめて花束を__superfly",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 15,
+        "title": "アウターサイエンス",
+        "reading": "アウターサイエンス",
+        "artist": "じん feat. IA",
+        "count": 3,
+        "key": "アウターサイエンス__じん feat. ia",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 16,
+        "title": "青のすみか",
+        "reading": "あおのすみか",
+        "artist": "キタニタツヤ",
+        "count": 3,
+        "key": "青のすみか__キタニタツヤ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 17,
+        "title": "アカシア",
+        "reading": "アカシア",
+        "artist": "BUMP OF CHICKEN",
+        "count": 6,
+        "key": "アカシア__bump of chicken",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 18,
+        "title": "悪魔の踊り方",
+        "reading": "あくまのおどりかた",
+        "artist": "こんにちは谷田さん(キタニタツヤ) feat. 鏡音リン",
+        "count": 4,
+        "key": "悪魔の踊り方__こんにちは谷田さん(キタニタツヤ) feat. 鏡音リン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 19,
+        "title": "アサガオの散る頃に",
+        "reading": "アサガオのちるころに",
+        "artist": "じっぷす feat. 初音ミク",
+        "count": 1,
+        "key": "アサガオの散る頃に__じっぷす feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 20,
+        "title": "阿修羅ちゃん",
+        "reading": "あしゅらちゃん",
+        "artist": "Ado",
+        "count": 3,
+        "key": "阿修羅ちゃん__ado",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 21,
+        "title": "アスノヨゾラ哨戒班",
+        "reading": "アスノヨゾラしょうかいはん",
+        "artist": "Orangestar feat.IA",
+        "count": 3,
+        "key": "アスノヨゾラ哨戒班__orangestar feat.ia",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 22,
+        "title": "アドバンス・アドベンチャー",
+        "reading": "アドバンス・アドベンチャー",
+        "artist": "GARDEN",
+        "count": 1,
+        "key": "アドバンス・アドベンチャー__garden",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 23,
+        "title": "アニマル",
+        "reading": "アニマル",
+        "artist": "DECO*27,Rockwell feat.初音ミク",
+        "count": 3,
+        "key": "アニマル__deco*27,rockwell feat.初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 24,
+        "title": "あの夏のいつかは",
+        "reading": "あのなつのいつかは",
+        "artist": "*Luna feat. 音街ウナ,Rana",
+        "count": 4,
+        "key": "あの夏のいつかは__*luna feat. 音街ウナ,rana",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 25,
+        "title": "About me",
+        "reading": "アバウト ミー",
+        "artist": "蝶々P feat. GUMI",
+        "count": 12,
+        "key": "about me__蝶々p feat. gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 26,
+        "title": "アポロ",
+        "reading": "アポロ",
+        "artist": "ポルノグラフィティ",
+        "count": 2,
+        "key": "アポロ__ポルノグラフィティ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 27,
+        "title": "天ノ弱",
+        "reading": "あまのじゃく",
+        "artist": "164 feat.GUMI",
+        "count": 3,
+        "key": "天ノ弱__164 feat.gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 28,
+        "title": "Alive A life",
+        "reading": "アライブ ア ライフ",
+        "artist": "松本 梨香",
+        "count": 1,
+        "key": "alive a life__松本 梨香",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 29,
+        "title": "アローラ!!",
+        "reading": "アローラ",
+        "artist": "サトシ(CV.松本梨香)withピカチュウ(CV.大谷育江)",
+        "count": 1,
+        "key": "アローラ!!__サトシ(cv.松本梨香)withピカチュウ(cv.大谷育江)",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 30,
+        "title": "アンサイズニア",
+        "reading": "アンサイズニア",
+        "artist": "ONE OK ROCK",
+        "count": 2,
+        "key": "アンサイズニア__one ok rock",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 31,
+        "title": "アンダー・ザ・シー",
+        "reading": "アンダー・ザ・シー",
+        "artist": "上條恒彦",
+        "count": 2,
+        "key": "アンダー・ザ・シー__上條恒彦",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ディズニー",
+        "genreText": "ディズニー",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 32,
+        "title": "UNDEAD",
+        "reading": "アンデッド",
+        "artist": "YOASOBI",
+        "count": 1,
+        "key": "undead__yoasobi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 33,
+        "title": "&ME",
+        "reading": "アンドミー",
+        "artist": "NALALA",
+        "count": 1,
+        "key": "&me__nalala",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アイドル",
+        "genreText": "アイドル",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 34,
+        "title": "いーあるふぁんくらぶ",
+        "reading": "いーあるふぁんくらぶ",
+        "artist": "みきとP feat.GUMI,鏡音リン",
+        "count": 4,
+        "key": "いーあるふぁんくらぶ__みきとp feat.gumi,鏡音リン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 35,
+        "title": "いかないで",
+        "reading": "いかないで",
+        "artist": "想太 feat.歌愛ユキ",
+        "count": 4,
+        "key": "いかないで__想太 feat.歌愛ユキ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 36,
+        "title": "いけないボーダーライン",
+        "reading": "いけないボーダーライン",
+        "artist": "ワルキューレ",
+        "count": 1,
+        "key": "いけないボーダーライン__ワルキューレ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 37,
+        "title": "1925",
+        "reading": "イチキュウニーゴー",
+        "artist": "冨田悠斗(とみー/T-POCKET) feat. 初音ミク",
+        "count": 2,
+        "key": "1925__冨田悠斗(とみー/t-pocket) feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 38,
+        "title": "一生分のラブレター",
+        "reading": "いっしょうぶんのラブレター",
+        "artist": "ウソツキ",
+        "count": 1,
+        "key": "一生分のラブレター__ウソツキ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 39,
+        "title": "威風堂々",
+        "reading": "いふうどうどう",
+        "artist": "梅とら feat. 初音ミク,鏡音リン,巡音ルカ,GUMI,IA",
+        "count": 1,
+        "key": "威風堂々__梅とら feat. 初音ミク,鏡音リン,巡音ルカ,gumi,ia",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 40,
+        "title": "インフルエンサー",
+        "reading": "インフルエンサー",
+        "artist": "乃木坂46",
+        "count": 4,
+        "key": "インフルエンサー__乃木坂46",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アイドル",
+        "genreText": "アイドル",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 41,
+        "title": "ヴァンパイア",
+        "reading": "ヴァンパイア",
+        "artist": "DECO*27,Rockwell feat. 初音ミク",
+        "count": 4,
+        "key": "ヴァンパイア__deco*27,rockwell feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 42,
+        "title": "We are the ONE ～僕らはひとつ～",
+        "reading": "ウィー アー ザ ワン ぼくらはひとつ",
+        "artist": "串田アキラ",
+        "count": 1,
+        "key": "we are the one ～僕らはひとつ～__串田アキラ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 43,
+        "title": "ウィーアー！",
+        "reading": "ウィーアー",
+        "artist": "きただにひろし",
+        "count": 2,
+        "key": "ウィーアー！__きただにひろし",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 44,
+        "title": "ヴィラン",
+        "reading": "ヴィラン",
+        "artist": "てにをは feat. v flower",
+        "count": 1,
+        "key": "ヴィラン__てにをは feat. v flower",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 45,
+        "title": "Watch me!",
+        "reading": "ウォッチ ミー",
+        "artist": "YOASOBI",
+        "count": 2,
+        "key": "watch me!__yoasobi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 46,
+        "title": "うまぴょい伝説",
+        "reading": "うまぴょいでんせつ",
+        "artist": "ウマ娘 プリティーダービー",
+        "count": 2,
+        "key": "うまぴょい伝説__ウマ娘 プリティーダービー",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 47,
+        "title": "え？あぁ、そう。",
+        "reading": "え あぁ そう",
+        "artist": "蝶々P feat. 初音ミク",
+        "count": 1,
+        "key": "え？あぁ、そう。__蝶々p feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 48,
+        "title": "エイリアンエイリアン",
+        "reading": "エイリアンエイリアン",
+        "artist": "ナユタン星人 feat. 初音ミク",
+        "count": 4,
+        "key": "エイリアンエイリアン__ナユタン星人 feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 49,
+        "title": "YELL",
+        "reading": "エール",
+        "artist": "いきものがかり",
+        "count": 1,
+        "key": "yell__いきものがかり",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 50,
+        "title": "EXCITE",
+        "reading": "エキサイト",
+        "artist": "三浦大知",
+        "count": 2,
+        "key": "excite__三浦大知",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 51,
+        "title": "エゴロック",
+        "reading": "エゴロック",
+        "artist": "すりぃ feat. 鏡音レン",
+        "count": 4,
+        "key": "エゴロック__すりぃ feat. 鏡音レン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 52,
+        "title": "Anything Goes!",
+        "reading": "エニシング ゴーズ",
+        "artist": "大黒摩季",
+        "count": 3,
+        "key": "anything goes!__大黒摩季",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 53,
+        "title": "Everyday、カチューシャ",
+        "reading": "エブリデイ カチューシャ",
+        "artist": "AKB48",
+        "count": 1,
+        "key": "everyday、カチューシャ__akb48",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アイドル",
+        "genreText": "アイドル",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 54,
+        "title": "M",
+        "reading": "エム",
+        "artist": "PRINCESS PRINCESS",
+        "count": 1,
+        "key": "m__princess princess",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 55,
+        "title": "エンヴィーベイビー",
+        "reading": "エンヴィーベイビー",
+        "artist": "Kanaria feat. GUMI",
+        "count": 4,
+        "key": "エンヴィーベイビー__kanaria feat. gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 56,
+        "title": "『エンヴィーベイビー』×『KING』",
+        "reading": "エンヴィーベイビー×キング",
+        "artist": "Kanaria feat. GUMI",
+        "count": 3,
+        "key": "『エンヴィーベイビー』×『king』__kanaria feat. gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 57,
+        "title": "炎神戦隊ゴーオンジャー",
+        "reading": "えんじんせんたいゴーオンジャー",
+        "artist": "高橋秀幸(Project.R)",
+        "count": 3,
+        "key": "炎神戦隊ゴーオンジャー__高橋秀幸(project.r)",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 58,
+        "title": "炎神ファーストラップ-Type Normal-",
+        "reading": "えんじんファーストラップ タイプ ノーマル",
+        "artist": "Project.R",
+        "count": 1,
+        "key": "炎神ファーストラップ-type normal-__project.r",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 59,
+        "title": "エンゼルフィッシュ",
+        "reading": "エンゼルフィッシュ",
+        "artist": "パトリチェフ feat. 鏡音リン",
+        "count": 3,
+        "key": "エンゼルフィッシュ__パトリチェフ feat. 鏡音リン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 60,
+        "title": "EmBlem!!!",
+        "reading": "エンブレム",
+        "artist": "BAE",
+        "count": 1,
+        "key": "emblem!!!__bae",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 61,
+        "title": "大声ダイヤモンド",
+        "reading": "おおごえダイヤモンド",
+        "artist": "AKB48",
+        "count": 1,
+        "key": "大声ダイヤモンド__akb48",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アイドル",
+        "genreText": "アイドル",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 62,
+        "title": "オートファジー",
+        "reading": "オートファジー",
+        "artist": "柊キライ feat. v flower",
+        "count": 3,
+        "key": "オートファジー__柊キライ feat. v flower",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 63,
+        "title": "Overdose",
+        "reading": "オーバードーズ",
+        "artist": "なとり",
+        "count": 1,
+        "key": "overdose__なとり",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 64,
+        "title": "オーレ!オーレンジャー",
+        "reading": "オーレ オーレンジャー",
+        "artist": "速水けんたろう",
+        "count": 3,
+        "key": "オーレ!オーレンジャー__速水けんたろう",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 65,
+        "title": "おジャ魔女カーニバル!!",
+        "reading": "おジャまじょカーニバル",
+        "artist": "MAHO堂",
+        "count": 3,
+        "key": "おジャ魔女カーニバル!!__maho堂",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 66,
+        "title": "おじゃま虫",
+        "reading": "おじゃまむし",
+        "artist": "DECO*27 feat. 初音ミク",
+        "count": 2,
+        "key": "おじゃま虫__deco*27 feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 67,
+        "title": "おじゃま虫Ⅱ",
+        "reading": "おじゃまむしⅡ",
+        "artist": "DECO*27,TeddyLoid feat. 初音ミク",
+        "count": 5,
+        "key": "おじゃま虫ⅱ__deco*27,teddyloid feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 68,
+        "title": "おちゃめ機能",
+        "reading": "おちゃめきのう",
+        "artist": "ゴジマジP feat. 重音テト",
+        "count": 2,
+        "key": "おちゃめ機能__ゴジマジp feat. 重音テト",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 69,
+        "title": "踊",
+        "reading": "おど",
+        "artist": "Ado",
+        "count": 5,
+        "key": "踊__ado",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 70,
+        "title": "乙女解剖",
+        "reading": "おとめかいぼう",
+        "artist": "DECO*27 feat.初音ミク",
+        "count": 4,
+        "key": "乙女解剖__deco*27 feat.初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 71,
+        "title": "鬼ノ宴",
+        "reading": "おにノうたげ",
+        "artist": "友成空",
+        "count": 3,
+        "key": "鬼ノ宴__友成空",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 72,
+        "title": "おねがいダーリン",
+        "reading": "おねがいダーリン",
+        "artist": "ナナホシ管弦楽団 feat. ONE",
+        "count": 1,
+        "key": "おねがいダーリン__ナナホシ管弦楽団 feat. one",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 73,
+        "title": "お願いマッスル",
+        "reading": "おねがいマッスル",
+        "artist": "紗倉ひびき(CV.ファイルーズあい)＆街雄鳴造(CV.石川界人)",
+        "count": 1,
+        "key": "お願いマッスル__紗倉ひびき(cv.ファイルーズあい)＆街雄鳴造(cv.石川界人)",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 74,
+        "title": "オリオンをなぞる",
+        "reading": "オリオンをなぞる",
+        "artist": "UNISON SQUARE GARDEN",
+        "count": 4,
+        "key": "オリオンをなぞる__unison square garden",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 75,
+        "title": "俺こそオンリーワン",
+        "reading": "おれこそオンリーワン",
+        "artist": "MORISAKI WIN",
+        "count": 3,
+        "key": "俺こそオンリーワン__morisaki win",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 76,
+        "title": "ガーネット",
+        "reading": "ガーネット",
+        "artist": "奥華子",
+        "count": 2,
+        "key": "ガーネット__奥華子",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 77,
+        "title": "ガールズルール",
+        "reading": "ガールズルール",
+        "artist": "乃木坂46",
+        "count": 2,
+        "key": "ガールズルール__乃木坂46",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アイドル",
+        "genreText": "アイドル",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 78,
+        "title": "廻廻奇譚",
+        "reading": "かいかいきたん",
+        "artist": "Eve",
+        "count": 1,
+        "key": "廻廻奇譚__eve",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 79,
+        "title": "怪獣の花唄",
+        "reading": "かいじゅうのはなうた",
+        "artist": "Vaundy",
+        "count": 8,
+        "key": "怪獣の花唄__vaundy",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 80,
+        "title": "快晴",
+        "reading": "かいせい",
+        "artist": "Orangestar feat. IA",
+        "count": 2,
+        "key": "快晴__orangestar feat. ia",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 81,
+        "title": "海賊戦隊ゴーカイジャー",
+        "reading": "かいぞくせんたいゴーカイジャー",
+        "artist": "松原剛志(Project.R)",
+        "count": 3,
+        "key": "海賊戦隊ゴーカイジャー__松原剛志(project.r)",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 82,
+        "title": "怪盗・窪園チヨコは絶対ミスらない",
+        "reading": "かいとう くぼぞのチヨコはぜったいミスらない",
+        "artist": "椎名もた(ぽわぽわP) feat. 鏡音リン",
+        "count": 1,
+        "key": "怪盗・窪園チヨコは絶対ミスらない__椎名もた(ぽわぽわp) feat. 鏡音リン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 83,
+        "title": "怪物",
+        "reading": "かいぶつ",
+        "artist": "YOASOBI",
+        "count": 8,
+        "key": "怪物__yoasobi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 84,
+        "title": "帰り道は遠回りしたくなる",
+        "reading": "かえりみちはとおまわりしたくなる",
+        "artist": "乃木坂46",
+        "count": 2,
+        "key": "帰り道は遠回りしたくなる__乃木坂46",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アイドル",
+        "genreText": "アイドル",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 85,
+        "title": "ガオレンジャー吼えろ!!",
+        "reading": "ガオレンジャーほえろ",
+        "artist": "山形ユキオ",
+        "count": 3,
+        "key": "ガオレンジャー吼えろ!!__山形ユキオ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 86,
+        "title": "科学戦隊ダイナマン",
+        "reading": "かがくせんたいダイナマン",
+        "artist": "Mojo,こおろぎ '73",
+        "count": 3,
+        "key": "科学戦隊ダイナマン__mojo,こおろぎ '73",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 87,
+        "title": "カキツバタオルケストラ",
+        "reading": "カキツバタオルケストラ",
+        "artist": "藍乃 feat. 滲音かこい,*染",
+        "count": 2,
+        "key": "カキツバタオルケストラ__藍乃 feat. 滲音かこい,*染",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 88,
+        "title": "影踏みエトランゼ",
+        "reading": "かげふみエトランゼ",
+        "artist": "Substreet feat. 初音ミク",
+        "count": 1,
+        "key": "影踏みエトランゼ__substreet feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 89,
+        "title": "カゲロウデイズ",
+        "reading": "カゲロウデイズ",
+        "artist": "じん feat. 初音ミク",
+        "count": 1,
+        "key": "カゲロウデイズ__じん feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 90,
+        "title": "カサブタ",
+        "reading": "カサブタ",
+        "artist": "千綿ヒデノリ",
+        "count": 1,
+        "key": "カサブタ__千綿ヒデノリ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 91,
+        "title": "風待ちハローワールド",
+        "reading": "かぜまちハローワールド",
+        "artist": "add9(ヘリP) feat. 初音ミク",
+        "count": 3,
+        "key": "風待ちハローワールド__add9(ヘリp) feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 92,
+        "title": "風待ちハローワルド",
+        "reading": "かぜまちハローワールド",
+        "artist": "add9(ヘリP) feat. 初音ミク",
+        "count": 2,
+        "key": "風待ちハローワルド__add9(ヘリp) feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 93,
+        "title": "ガッチャ☆ゴセイジャー",
+        "reading": "ガッチャ ゴセイジャー",
+        "artist": "高橋秀幸(Project.R)",
+        "count": 1,
+        "key": "ガッチャ☆ゴセイジャー__高橋秀幸(project.r)",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 94,
+        "title": "勝って泣こうゼッ!",
+        "reading": "かってなこうゼッ",
+        "artist": "T-Pistonz,KMC",
+        "count": 1,
+        "key": "勝って泣こうゼッ!__t-pistonz,kmc",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 95,
+        "title": "Got Boost？",
+        "reading": "ガット ブースト",
+        "artist": "FANTASTICS",
+        "count": 1,
+        "key": "got boost？__fantastics",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 96,
+        "title": "カトラリー",
+        "reading": "カトラリー",
+        "artist": "有機酸 feat. 初音ミク",
+        "count": 5,
+        "key": "カトラリー__有機酸 feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 97,
+        "title": "かなしみのなみにおぼれる",
+        "reading": "かなしみのなみにおぼれる",
+        "artist": "Neru feat. 鏡音レン",
+        "count": 1,
+        "key": "かなしみのなみにおぼれる__neru feat. 鏡音レン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 98,
+        "title": "神っぽいな",
+        "reading": "かみっぽいな",
+        "artist": "ピノキオピー feat.初音ミク",
+        "count": 11,
+        "key": "神っぽいな__ピノキオピー feat.初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 99,
+        "title": "からくりピエロ",
+        "reading": "からくりピエロ",
+        "artist": "40mP feat.初音ミク",
+        "count": 2,
+        "key": "からくりピエロ__40mp feat.初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 100,
+        "title": "Calc.",
+        "reading": "カルク",
+        "artist": "ジミーサムP feat. 初音ミク",
+        "count": 3,
+        "key": "calc.__ジミーサムp feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 101,
+        "title": "かわいいだけじゃだめですか？",
+        "reading": "かわいいだけじゃだめですか",
+        "artist": "CUTIE STREET",
+        "count": 3,
+        "key": "かわいいだけじゃだめですか？__cutie street",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アイドル",
+        "genreText": "アイドル",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 102,
+        "title": "可愛くてごめん",
+        "reading": "かわいくてごめん",
+        "artist": "feat. ちゅーたん(CV.早見沙織)/HoneyWorks",
+        "count": 5,
+        "key": "可愛くてごめん__feat. ちゅーたん(cv.早見沙織)/honeyworks",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 103,
+        "title": "変わらないもの",
+        "reading": "かわらないもの",
+        "artist": "奥華子",
+        "count": 3,
+        "key": "変わらないもの__奥華子",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 104,
+        "title": "勘冴えて悔しいわ",
+        "reading": "かんさえてくやしいわ",
+        "artist": "ずっと真夜中でいいのに。",
+        "count": 1,
+        "key": "勘冴えて悔しいわ__ずっと真夜中でいいのに。",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 105,
+        "title": "感動共有!",
+        "reading": "かんどうきょうゆう",
+        "artist": "T-Pistonz,KMC",
+        "count": 1,
+        "key": "感動共有!__t-pistonz,kmc",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 106,
+        "title": "ガンバランスdeダンス",
+        "reading": "ガンバランス デ ダンス",
+        "artist": "五條真由美 with フラッピ&チョッピーズ",
+        "count": 1,
+        "key": "ガンバランスdeダンス__五條真由美 with フラッピ&チョッピーズ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 107,
+        "title": "ギザギザハートの子守唄",
+        "reading": "ギザギザハートのこもりうた",
+        "artist": "チェッカーズ",
+        "count": 1,
+        "key": "ギザギザハートの子守唄__チェッカーズ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 108,
+        "title": "如月アテンション",
+        "reading": "きさらぎアテンション",
+        "artist": "じん feat. IA",
+        "count": 1,
+        "key": "如月アテンション__じん feat. ia",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 109,
+        "title": "騎士竜戦隊リュウソウジャー",
+        "reading": "きしりゅうせんたいリュウソウジャー",
+        "artist": "幡野智宏(Project.R)",
+        "count": 3,
+        "key": "騎士竜戦隊リュウソウジャー__幡野智宏(project.r)",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 110,
+        "title": "疑心暗鬼",
+        "reading": "ぎしんあんき",
+        "artist": "梅とら feat. 初音ミク,鏡音リン,巡音ルカ,GUMI,IA",
+        "count": 2,
+        "key": "疑心暗鬼__梅とら feat. 初音ミク,鏡音リン,巡音ルカ,gumi,ia",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 111,
+        "title": "キセキ",
+        "reading": "キセキ",
+        "artist": "GRe4N BOYZ(GReeeeN)",
+        "count": 2,
+        "key": "キセキ__gre4n boyz(greeeen)",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 112,
+        "title": "KICK BACK",
+        "reading": "キックバック",
+        "artist": "米津玄師",
+        "count": 3,
+        "key": "kick back__米津玄師",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 113,
+        "title": "気まぐれロマンティック",
+        "reading": "きまぐれロマンティック",
+        "artist": "いきものがかり",
+        "count": 5,
+        "key": "気まぐれロマンティック__いきものがかり",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 114,
+        "title": "君じゃなきゃダメみたい",
+        "reading": "きみじゃなきゃダメみたい",
+        "artist": "オーイシマサヨシ",
+        "count": 1,
+        "key": "君じゃなきゃダメみたい__オーイシマサヨシ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 115,
+        "title": "君にBUMP",
+        "reading": "きみにバンプ",
+        "artist": "ケツメイシ",
+        "count": 1,
+        "key": "君にbump__ケツメイシ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 116,
+        "title": "君の知らない物語",
+        "reading": "きみのしらないものがたり",
+        "artist": "Supercell",
+        "count": 10,
+        "key": "君の知らない物語__supercell",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 117,
+        "title": "君のそばで～ヒカリのテーマ～",
+        "reading": "きみのそばで ヒカリのテーマ",
+        "artist": "グリン",
+        "count": 2,
+        "key": "君のそばで～ヒカリのテーマ～__グリン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 118,
+        "title": "君はロックを聴かない",
+        "reading": "きみはロックをきかない",
+        "artist": "あいみょん",
+        "count": 2,
+        "key": "君はロックを聴かない__あいみょん",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 119,
+        "title": "逆光",
+        "reading": "ぎゃっこう",
+        "artist": "Ado",
+        "count": 3,
+        "key": "逆光__ado",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 120,
+        "title": "Q",
+        "reading": "キュー",
+        "artist": "椎名もた(ぽわぽわP) feat.鏡音リン",
+        "count": 4,
+        "key": "q__椎名もた(ぽわぽわp) feat.鏡音リン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 121,
+        "title": "救急戦隊ゴーゴーファイブ",
+        "reading": "きゅうきゅうせんたいゴーゴーファイブ",
+        "artist": "石原慎一",
+        "count": 3,
+        "key": "救急戦隊ゴーゴーファイブ__石原慎一",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 122,
+        "title": "きゅうくらりん",
+        "reading": "きゅうくらりん",
+        "artist": "いよわ feat. 可不",
+        "count": 7,
+        "key": "きゅうくらりん__いよわ feat. 可不",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 123,
+        "title": "強風オールバック",
+        "reading": "きょうふうオールバック",
+        "artist": "Yukopi feat. 歌愛ユキ",
+        "count": 2,
+        "key": "強風オールバック__yukopi feat. 歌愛ユキ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 124,
+        "title": "恐竜戦隊ジュウレンジャー",
+        "reading": "きょうりゅうせんたいジュウレンジャー",
+        "artist": "佐藤健太",
+        "count": 3,
+        "key": "恐竜戦隊ジュウレンジャー__佐藤健太",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 125,
+        "title": "ギラギラ",
+        "reading": "ギラギラ",
+        "artist": "Ado",
+        "count": 5,
+        "key": "ギラギラ__ado",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 126,
+        "title": "キラキラしちゃって My True Love!",
+        "reading": "キラキラしちゃって マイ トゥルー ラブ",
+        "artist": "宮本佳那子",
+        "count": 1,
+        "key": "キラキラしちゃって my true love!__宮本佳那子",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 127,
+        "title": "キラフル ミラクル キラメイジャー",
+        "reading": "キラフル ミラクル キラメイジャー",
+        "artist": "出口たかし",
+        "count": 1,
+        "key": "キラフル ミラクル キラメイジャー__出口たかし",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 128,
+        "title": "銀河鉄道999",
+        "reading": "ぎんがてつどうスリーナイン",
+        "artist": "ゴダイゴ",
+        "count": 2,
+        "key": "銀河鉄道999__ゴダイゴ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 129,
+        "title": "KING",
+        "reading": "キング",
+        "artist": "Kanaria feat. GUMI",
+        "count": 6,
+        "key": "king__kanaria feat. gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 130,
+        "title": "空想フォレスト",
+        "reading": "くうそうフォレスト",
+        "artist": "じん feat.IA",
+        "count": 1,
+        "key": "空想フォレスト__じん feat.ia",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 131,
+        "title": "Good Time",
+        "reading": "グッド タイム",
+        "artist": "(feat. SKY-HI)/cozmez",
+        "count": 1,
+        "key": "good time__(feat. sky-hi)/cozmez",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 132,
+        "title": "グッバイ宣言",
+        "reading": "グッバイせんげん",
+        "artist": "Chinozo feat. v flower",
+        "count": 3,
+        "key": "グッバイ宣言__chinozo feat. v flower",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 133,
+        "title": "Cry Baby",
+        "reading": "クライ ベイビー",
+        "artist": "Official髭男dism",
+        "count": 1,
+        "key": "cry baby__official髭男dism",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 134,
+        "title": "クラクラ",
+        "reading": "クラクラ",
+        "artist": "Ado",
+        "count": 5,
+        "key": "クラクラ__ado",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 135,
+        "title": "繰り返し一粒",
+        "reading": "くりかえしひとつぶ",
+        "artist": "猫虫 feat.鏡音リン",
+        "count": 1,
+        "key": "繰り返し一粒__猫虫 feat.鏡音リン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 136,
+        "title": "Click",
+        "reading": "クリック",
+        "artist": "ME:I",
+        "count": 1,
+        "key": "click__me:i",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アイドル",
+        "genreText": "アイドル",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 137,
+        "title": "紅蓮華",
+        "reading": "ぐれんげ",
+        "artist": "LiSA",
+        "count": 1,
+        "key": "紅蓮華__lisa",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 138,
+        "title": "群青",
+        "reading": "ぐんじょう",
+        "artist": "YOASOBI",
+        "count": 15,
+        "key": "群青__yoasobi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 139,
+        "title": "激走戦隊カーレンジャー~フルアクセルヴァージョン~",
+        "reading": "げきそうカーレンジャー フルアクセルヴァージョン",
+        "artist": "高山成孝",
+        "count": 1,
+        "key": "激走戦隊カーレンジャー~フルアクセルヴァージョン~__高山成孝",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 140,
+        "title": "激走戦隊カーレンジャー",
+        "reading": "げきそうせんたいカーレンジャー",
+        "artist": "高山成孝",
+        "count": 3,
+        "key": "激走戦隊カーレンジャー__高山成孝",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 141,
+        "title": "ゲッチュウ!らぶらぶぅ?!",
+        "reading": "ゲッチュウ らぶらぶぅ",
+        "artist": "五條真由美",
+        "count": 1,
+        "key": "ゲッチュウ!らぶらぶぅ?!__五條真由美",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 142,
+        "title": "Get Wild",
+        "reading": "ゲット ワイルド",
+        "artist": "TM NETWORK",
+        "count": 2,
+        "key": "get wild__tm network",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 143,
+        "title": "ケッペキショウ",
+        "reading": "ケッペキショウ",
+        "artist": "すこっぷ feat. GUMI",
+        "count": 1,
+        "key": "ケッペキショウ__すこっぷ feat. gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 144,
+        "title": "CHEMY×STORY",
+        "reading": "ケミストリー",
+        "artist": "BACK-ON",
+        "count": 3,
+        "key": "chemy×story__back-on",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 145,
+        "title": "喧嘩上等",
+        "reading": "けんかじょうとう",
+        "artist": "氣志團",
+        "count": 1,
+        "key": "喧嘩上等__氣志團",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 146,
+        "title": "小悪魔だってかまわない！",
+        "reading": "こあくまだってかまわない",
+        "artist": "めいちゃん",
+        "count": 1,
+        "key": "小悪魔だってかまわない！__めいちゃん",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 147,
+        "title": "恋するフォーチュンクッキー",
+        "reading": "こいするフォーチュンクッキー",
+        "artist": "AKB48",
+        "count": 1,
+        "key": "恋するフォーチュンクッキー__akb48",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アイドル",
+        "genreText": "アイドル",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 148,
+        "title": "コインロッカーベイビー",
+        "reading": "コインロッカーベイビー",
+        "artist": "MARETU feat. 初音ミク",
+        "count": 2,
+        "key": "コインロッカーベイビー__maretu feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 149,
+        "title": "轟轟戦隊ボウケンジャー",
+        "reading": "こうごうせんたいボウケンジャー",
+        "artist": "NoB",
+        "count": 4,
+        "key": "轟轟戦隊ボウケンジャー__nob",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 150,
+        "title": "高速戦隊ターボレンジャー",
+        "reading": "こうそくせんたいターボレンジャー",
+        "artist": "佐藤健太",
+        "count": 3,
+        "key": "高速戦隊ターボレンジャー__佐藤健太",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 151,
+        "title": "ゴーゴー幽霊船",
+        "reading": "ゴーゴーゆうれいせん",
+        "artist": "米津玄師",
+        "count": 3,
+        "key": "ゴーゴー幽霊船__米津玄師",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 152,
+        "title": "ゴーストルール",
+        "reading": "ゴーストルール",
+        "artist": "DECO*27 feat. 初音ミク",
+        "count": 5,
+        "key": "ゴーストルール__deco*27 feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 153,
+        "title": "コールボーイ",
+        "reading": "コールボーイ",
+        "artist": "syudou feat. 初音ミク",
+        "count": 3,
+        "key": "コールボーイ__syudou feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 154,
+        "title": "心のファンファーレ",
+        "reading": "こころのファンファーレ",
+        "artist": "奥井亜紀",
+        "count": 2,
+        "key": "心のファンファーレ__奥井亜紀",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 155,
+        "title": "虎視眈々",
+        "reading": "こしたんたん",
+        "artist": "梅とら feat. 初音ミク,鏡音リン,巡音ルカ,GUMI,IA",
+        "count": 2,
+        "key": "虎視眈々__梅とら feat. 初音ミク,鏡音リン,巡音ルカ,gumi,ia",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 156,
+        "title": "五星戦隊ダイレンジャー",
+        "reading": "ごせいせんたいダイレンジャー",
+        "artist": "NEW JACK拓郎",
+        "count": 3,
+        "key": "五星戦隊ダイレンジャー__new jack拓郎",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 157,
+        "title": "コツコツ-PON-PON",
+        "reading": "コツコツ ポンポン",
+        "artist": "ブンドリオ・ブンデラス(CV.松本梨香)",
+        "count": 2,
+        "key": "コツコツ-pon-pon__ブンドリオ・ブンデラス(cv.松本梨香)",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 158,
+        "title": "こっち向いて Baby",
+        "reading": "こっちむいて ベイビー",
+        "artist": "ryo(supercell) feat.初音ミク",
+        "count": 1,
+        "key": "こっち向いて baby__ryo(supercell) feat.初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 159,
+        "title": "God knows...",
+        "reading": "ゴッド ノウズ",
+        "artist": "涼宮ハルヒ(CV.平野綾)",
+        "count": 3,
+        "key": "god knows...__涼宮ハルヒ(cv.平野綾)",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 160,
+        "title": "粉雪",
+        "reading": "こなゆき",
+        "artist": "レミオロメン",
+        "count": 2,
+        "key": "粉雪__レミオロメン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 161,
+        "title": "壊れかけのRadio",
+        "reading": "こわれかけのレディオ",
+        "artist": "德永英明",
+        "count": 1,
+        "key": "壊れかけのradio__德永英明",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 162,
+        "title": "さぁ行け!ニンニンジャー!",
+        "reading": "さぁいけニンニンジャー",
+        "artist": "大西洋平",
+        "count": 3,
+        "key": "さぁ行け!ニンニンジャー!__大西洋平",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 163,
+        "title": "最強最高 SUPER STARS！",
+        "reading": "さいきょうさいこう スーパー スターズ",
+        "artist": "NoB",
+        "count": 2,
+        "key": "最強最高 super stars！__nob",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 164,
+        "title": "サウダージ",
+        "reading": "サウダージ",
+        "artist": "ポルノグラフィティ",
+        "count": 2,
+        "key": "サウダージ__ポルノグラフィティ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 165,
+        "title": "さくら",
+        "reading": "さくら",
+        "artist": "ケツメイシ",
+        "count": 1,
+        "key": "さくら__ケツメイシ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 166,
+        "title": "SURPRISE-DRIVE",
+        "reading": "サプライズ ドライブ",
+        "artist": "MITSURU MATSUOKA EARNEST DRIVE",
+        "count": 2,
+        "key": "surprise-drive__mitsuru matsuoka earnest drive",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 167,
+        "title": "サマータイムレコード",
+        "reading": "サマータイムレコード",
+        "artist": "じん feat. IA",
+        "count": 11,
+        "key": "サマータイムレコード__じん feat. ia",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 168,
+        "title": "侍戦隊シンケンジャー",
+        "reading": "さむらいせんたいシンケンジャー",
+        "artist": "サイキックラバー",
+        "count": 3,
+        "key": "侍戦隊シンケンジャー__サイキックラバー",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 169,
+        "title": "サムライハート",
+        "reading": "サムライハート",
+        "artist": "SPYAIR",
+        "count": 3,
+        "key": "サムライハート__spyair",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 170,
+        "title": "さようなら、花泥棒さん",
+        "reading": "さようなら はなどろぼうさん",
+        "artist": "メル feat. 初音ミク",
+        "count": 5,
+        "key": "さようなら、花泥棒さん__メル feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 171,
+        "title": "小夜子",
+        "reading": "さよこ",
+        "artist": "みきとP feat. 初音ミク",
+        "count": 2,
+        "key": "小夜子__みきとp feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 172,
+        "title": "さよならエレジー",
+        "reading": "さよならエレジー",
+        "artist": "菅田将暉",
+        "count": 1,
+        "key": "さよならエレジー__菅田将暉",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 173,
+        "title": "サリシノハラ",
+        "reading": "サリシノハラ",
+        "artist": "みきとP feat.初音ミク",
+        "count": 1,
+        "key": "サリシノハラ__みきとp feat.初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 174,
+        "title": "残響散歌",
+        "reading": "ざんきょうさんか",
+        "artist": "Aimer",
+        "count": 5,
+        "key": "残響散歌__aimer",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 175,
+        "title": "シークレット カクレンジャー",
+        "reading": "シークレット カクレンジャー",
+        "artist": "トゥー・チー・チェン",
+        "count": 3,
+        "key": "シークレット カクレンジャー__トゥー・チー・チェン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 176,
+        "title": "secret base 〜君がくれたもの〜",
+        "reading": "シークレットベース きみがくれたもの",
+        "artist": "ZONE",
+        "count": 3,
+        "key": "secret base 〜君がくれたもの〜__zone",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 177,
+        "title": "JIKU~未来戦隊タイムレンジャー~",
+        "reading": "じくう みらいせんたいタイムレンジャー",
+        "artist": "佐々木久美",
+        "count": 4,
+        "key": "jiku~未来戦隊タイムレンジャー~__佐々木久美",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 178,
+        "title": "CITRUS",
+        "reading": "シトラス",
+        "artist": "Da-iCE",
+        "count": 4,
+        "key": "citrus__da-ice",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 179,
+        "title": "シネマ",
+        "reading": "シネマ",
+        "artist": "Ayase feat. 初音ミク",
+        "count": 1,
+        "key": "シネマ__ayase feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 180,
+        "title": "シャイニング パワー",
+        "reading": "シャイニング パワー",
+        "artist": "Berryz工房",
+        "count": 2,
+        "key": "シャイニング パワー__berryz工房",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アイドル",
+        "genreText": "アイドル",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 181,
+        "title": "Just be friends",
+        "reading": "ジャスト ビー フレンズ",
+        "artist": "Dixie Flatline feat.巡音ルカ",
+        "count": 5,
+        "key": "just be friends__dixie flatline feat.巡音ルカ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 182,
+        "title": "ジャッカー電撃隊",
+        "reading": "ジャッカーでんげきたい",
+        "artist": "ささきいさお,こおろぎ'73",
+        "count": 3,
+        "key": "ジャッカー電撃隊__ささきいさお,こおろぎ'73",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 183,
+        "title": "ジャックポットサッドガール",
+        "reading": "ジャックポットサッドガール",
+        "artist": "syudou feat. 初音ミク",
+        "count": 1,
+        "key": "ジャックポットサッドガール__syudou feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 184,
+        "title": "シャルル",
+        "reading": "シャルル",
+        "artist": "バルーン feat. v flower",
+        "count": 3,
+        "key": "シャルル__バルーン feat. v flower",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 185,
+        "title": "ジャンキーナイトタウンオーケストラ",
+        "reading": "ジャンキーナイトタウンオーケストラ",
+        "artist": "すりぃ feat. 鏡音レン",
+        "count": 4,
+        "key": "ジャンキーナイトタウンオーケストラ__すりぃ feat. 鏡音レン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 186,
+        "title": "シャンティ",
+        "reading": "シャンティ",
+        "artist": "wotaku feat. KAITO",
+        "count": 4,
+        "key": "シャンティ__wotaku feat. kaito",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 187,
+        "title": "獣拳戦隊ゲキレンジャー",
+        "reading": "じゅうけんせんたいゲキレンジャー",
+        "artist": "谷本貴義,ヤング・フレッシュ",
+        "count": 3,
+        "key": "獣拳戦隊ゲキレンジャー__谷本貴義,ヤング・フレッシュ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 188,
+        "title": "15の夜",
+        "reading": "じゅうごのよる",
+        "artist": "尾崎豊",
+        "count": 1,
+        "key": "15の夜__尾崎豊",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 189,
+        "title": "従属ふりったー",
+        "reading": "じゅうぞくふりったー",
+        "artist": "koyori(電ポルP) feat. 初音ミク",
+        "count": 1,
+        "key": "従属ふりったー__koyori(電ポルp) feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 190,
+        "title": "シュガーソングとビターステップ",
+        "reading": "シュガーソングとビターステップ",
+        "artist": "UNISON SQUARE GARDEN",
+        "count": 4,
+        "key": "シュガーソングとビターステップ__unison square garden",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 191,
+        "title": "粛聖!! ロリ神レクイエム☆",
+        "reading": "しゅくせい ロリかみレクイエム",
+        "artist": "しぐれうい",
+        "count": 2,
+        "key": "粛聖!! ロリ神レクイエム☆__しぐれうい",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "VTuber",
+        "genreText": "VTuber",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 192,
+        "title": "祝福",
+        "reading": "しゅくふく",
+        "artist": "YOASOBI",
+        "count": 9,
+        "key": "祝福__yoasobi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 193,
+        "title": "宿命",
+        "reading": "しゅくめい",
+        "artist": "Official髭男dism",
+        "count": 4,
+        "key": "宿命__official髭男dism",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 194,
+        "title": "純情スカート",
+        "reading": "じゅんじょうスカート",
+        "artist": "40mP feat. 初音ミク",
+        "count": 5,
+        "key": "純情スカート__40mp feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 195,
+        "title": "少女レイ",
+        "reading": "しょうじょレイ",
+        "artist": "みきとP feat. 初音ミク",
+        "count": 13,
+        "key": "少女レイ__みきとp feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 196,
+        "title": "シリョクケンサ",
+        "reading": "シリョクケンサ",
+        "artist": "40mP feat. GUMI",
+        "count": 1,
+        "key": "シリョクケンサ__40mp feat. gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 197,
+        "title": "シル・ヴ・プレジデント",
+        "reading": "シル・ヴ・プレジデント",
+        "artist": "P丸様。",
+        "count": 4,
+        "key": "シル・ヴ・プレジデント__p丸様。",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "VTuber",
+        "genreText": "VTuber",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 198,
+        "title": "白い恋人達",
+        "reading": "しろいこいびとたち",
+        "artist": "桑田佳祐",
+        "count": 1,
+        "key": "白い恋人達__桑田佳祐",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 199,
+        "title": "白い雪のプリンセスは",
+        "reading": "しろいゆきのプリンセスは",
+        "artist": "のぼる↑ feat.初音ミク",
+        "count": 3,
+        "key": "白い雪のプリンセスは__のぼる↑ feat.初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 200,
+        "title": "しわ",
+        "reading": "しわ",
+        "artist": "buzzG feat.GUMI",
+        "count": 1,
+        "key": "しわ__buzzg feat.gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 201,
+        "title": "深海シティアンダーグラウンド",
+        "reading": "しんかいシティアンダーグラウンド",
+        "artist": "田中B feat. 鏡音リン",
+        "count": 3,
+        "key": "深海シティアンダーグラウンド__田中b feat. 鏡音リン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 202,
+        "title": "深海少女",
+        "reading": "しんかいしょうじょ",
+        "artist": "ゆうゆ feat.初音ミク",
+        "count": 4,
+        "key": "深海少女__ゆうゆ feat.初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 203,
+        "title": "深海のリトルクライ",
+        "reading": "しんかいのリトルクライ",
+        "artist": "sasakure.UK feat. 土岐麻子",
+        "count": 6,
+        "key": "深海のリトルクライ__sasakure.uk feat. 土岐麻子",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 204,
+        "title": "Sing Out!",
+        "reading": "シング アウト",
+        "artist": "乃木坂46",
+        "count": 2,
+        "key": "sing out!__乃木坂46",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アイドル",
+        "genreText": "アイドル",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 205,
+        "title": "ジングルベル",
+        "reading": "ジングルベル",
+        "artist": "童謡",
+        "count": 4,
+        "key": "ジングルベル__童謡",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "童謡",
+        "genreText": "童謡",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 206,
+        "title": "シンクロニシティ",
+        "reading": "シンクロニシティ",
+        "artist": "乃木坂46",
+        "count": 2,
+        "key": "シンクロニシティ__乃木坂46",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アイドル",
+        "genreText": "アイドル",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 207,
+        "title": "新時代",
+        "reading": "しんじだい",
+        "artist": "Ado",
+        "count": 4,
+        "key": "新時代__ado",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 208,
+        "title": "心臓デモクラシー",
+        "reading": "しんぞうデモクラシー",
+        "artist": "みきとP feat.初音ミク",
+        "count": 3,
+        "key": "心臓デモクラシー__みきとp feat.初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 209,
+        "title": "心拍数#0822",
+        "reading": "しんぱくすう ゼロハチニーニー",
+        "artist": "蝶々P feat. 初音ミク",
+        "count": 3,
+        "key": "心拍数#0822__蝶々p feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 210,
+        "title": "スイートマジック",
+        "reading": "スイートマジック",
+        "artist": "Junky feat. 鏡音リン",
+        "count": 2,
+        "key": "スイートマジック__junky feat. 鏡音リン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 211,
+        "title": "ずうっといっしょ!",
+        "reading": "ずうっといっしょ",
+        "artist": "キタニタツヤ",
+        "count": 1,
+        "key": "ずうっといっしょ!__キタニタツヤ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 212,
+        "title": "スーパー戦隊 ヒーローゲッター",
+        "reading": "スーパーせんたい ヒーローゲッター",
+        "artist": "Project.R",
+        "count": 1,
+        "key": "スーパー戦隊 ヒーローゲッター__project.r",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 213,
+        "title": "スーパー戦隊ヒーローゲッター～テン・ゴーカイジャーver.～",
+        "reading": "スーパーせんたい ヒーローゲッター テン ゴーカイジャー バージョン",
+        "artist": "Project.R",
+        "count": 1,
+        "key": "スーパー戦隊ヒーローゲッター～テン・ゴーカイジャーver.～__project.r",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 214,
+        "title": "進め!ゴレンジャー",
+        "reading": "すすめ ゴレンジャー",
+        "artist": "ささきいさお,堀江美都子",
+        "count": 3,
+        "key": "進め!ゴレンジャー__ささきいさお,堀江美都子",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 215,
+        "title": "スターマーカー",
+        "reading": "スターマーカー",
+        "artist": "KANA-BOON",
+        "count": 2,
+        "key": "スターマーカー__kana-boon",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 216,
+        "title": "Snow halation",
+        "reading": "スノー ハレーション",
+        "artist": "μ's",
+        "count": 3,
+        "key": "snow halation__μ's",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 217,
+        "title": "スノースマイル",
+        "reading": "スノースマイル",
+        "artist": "BUMP OF CHICKEN",
+        "count": 3,
+        "key": "スノースマイル__bump of chicken",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 218,
+        "title": "星間飛行",
+        "reading": "せいかんひこう",
+        "artist": "ランカ・リー＝中島愛",
+        "count": 2,
+        "key": "星間飛行__ランカ・リー＝中島愛",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 219,
+        "title": "星獣戦隊ギンガマン",
+        "reading": "せいじゅうせんたいギンガマン",
+        "artist": "希砂未竜",
+        "count": 3,
+        "key": "星獣戦隊ギンガマン__希砂未竜",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 220,
+        "title": "青春バスガイド",
+        "reading": "せいしゅんバスガイド",
+        "artist": "Berryz工房",
+        "count": 1,
+        "key": "青春バスガイド__berryz工房",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アイドル",
+        "genreText": "アイドル",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 221,
+        "title": "セカイ",
+        "reading": "セカイ",
+        "artist": "DECO*27,堀江晶太(kemu) feat. 初音ミク",
+        "count": 4,
+        "key": "セカイ__deco*27,堀江晶太(kemu) feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 222,
+        "title": "世界一可愛い私",
+        "reading": "せかいいちかわいいわたし",
+        "artist": "藤田ことね(CV.飯田ヒカル)",
+        "count": 1,
+        "key": "世界一可愛い私__藤田ことね(cv.飯田ヒカル)",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 223,
+        "title": "世界でいちばん熱い夏",
+        "reading": "せかいでいちばんあついなつ",
+        "artist": "PRINCESS PRINCESS",
+        "count": 2,
+        "key": "世界でいちばん熱い夏__princess princess",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 224,
+        "title": "セカイはまだ始まってすらいない",
+        "reading": "セカイはまだはじまってすらいない",
+        "artist": "ピノキオピー feat. 初音ミク",
+        "count": 2,
+        "key": "セカイはまだ始まってすらいない__ピノキオピー feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 225,
+        "title": "セツナトリップ",
+        "reading": "セツナトリップ",
+        "artist": "Last Note. feat.GUMI",
+        "count": 2,
+        "key": "セツナトリップ__last note. feat.gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 226,
+        "title": "千本桜",
+        "reading": "せんぼんざくら",
+        "artist": "黒うさP feat.初音ミク",
+        "count": 1,
+        "key": "千本桜__黒うさp feat.初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 227,
+        "title": "全力キング",
+        "reading": "ぜんりょくキング",
+        "artist": "古川貴之",
+        "count": 7,
+        "key": "全力キング__古川貴之",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 228,
+        "title": "全力全開!ゼンカイジャー",
+        "reading": "ぜんりょくぜんかいゼンカイジャー",
+        "artist": "つるの剛士,ことのみ児童合唱団",
+        "count": 4,
+        "key": "全力全開!ゼンカイジャー__つるの剛士,ことのみ児童合唱団",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 229,
+        "title": "創聖のアクエリオン",
+        "reading": "そうせいのアクエリオン",
+        "artist": "AKINO",
+        "count": 4,
+        "key": "創聖のアクエリオン__akino",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 230,
+        "title": "想像フォレスト",
+        "reading": "そうぞうフォレスト",
+        "artist": "じん feat.IA",
+        "count": 2,
+        "key": "想像フォレスト__じん feat.ia",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 231,
+        "title": "そこに空があるから",
+        "reading": "そこにそらがあるから",
+        "artist": "江崎とし子",
+        "count": 1,
+        "key": "そこに空があるから__江崎とし子",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 232,
+        "title": "空色デイズ",
+        "reading": "そらいろデイズ",
+        "artist": "中川翔子",
+        "count": 3,
+        "key": "空色デイズ__中川翔子",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 233,
+        "title": "ダーリン",
+        "reading": "ダーリン",
+        "artist": "須田景凪",
+        "count": 5,
+        "key": "ダーリン__須田景凪",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 234,
+        "title": "ダーリンダンス",
+        "reading": "ダーリンダンス",
+        "artist": "かいりきベア feat.初音ミク",
+        "count": 8,
+        "key": "ダーリンダンス__かいりきベア feat.初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 235,
+        "title": "DIAMONDS",
+        "reading": "ダイアモンズ",
+        "artist": "PRINCESS PRINCESS",
+        "count": 2,
+        "key": "diamonds__princess princess",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 236,
+        "title": "大戦隊ゴーグルV",
+        "reading": "だいせんたいゴーグルファイブ",
+        "artist": "MoJo,こおろぎ'73,ザ・チャープス",
+        "count": 3,
+        "key": "大戦隊ゴーグルv__mojo,こおろぎ'73,ザ・チャープス",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 237,
+        "title": "タイプ:ワイルド",
+        "reading": "タイプ ワイルド",
+        "artist": "松本梨香",
+        "count": 2,
+        "key": "タイプ:ワイルド__松本梨香",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 238,
+        "title": "太陽戦隊サンバルカン",
+        "reading": "たいよいうせんたいサンバルカン",
+        "artist": "串田アキラ,こおろぎ'73",
+        "count": 3,
+        "key": "太陽戦隊サンバルカン__串田アキラ,こおろぎ'73",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 239,
+        "title": "太陽系デスコ",
+        "reading": "たいようけいデスコ",
+        "artist": "ナユタン星人 feat. 初音ミク",
+        "count": 3,
+        "key": "太陽系デスコ__ナユタン星人 feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 240,
+        "title": "ダウナーウィッチ",
+        "reading": "ダウナーウィッチ",
+        "artist": "廉 feat. 初音ミク",
+        "count": 2,
+        "key": "ダウナーウィッチ__廉 feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 241,
+        "title": "ダウンタイム",
+        "reading": "ダウンタイム",
+        "artist": "すりぃ feat. 鏡音レン",
+        "count": 2,
+        "key": "ダウンタイム__すりぃ feat. 鏡音レン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 242,
+        "title": "絶え間なく藍色",
+        "reading": "たえまなくあいいろ",
+        "artist": "獅子志司(Choisauce)  feat. 初音ミク",
+        "count": 6,
+        "key": "絶え間なく藍色__獅子志司(choisauce)  feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 243,
+        "title": "だから僕は音楽を辞めた",
+        "reading": "だからぼくはおんがくをやめた",
+        "artist": "ヨルシカ",
+        "count": 2,
+        "key": "だから僕は音楽を辞めた__ヨルシカ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 244,
+        "title": "ただ君に晴れ",
+        "reading": "ただきみにはれ",
+        "artist": "ヨルシカ",
+        "count": 2,
+        "key": "ただ君に晴れ__ヨルシカ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 245,
+        "title": "ダダダダ天使",
+        "reading": "ダダダダてんし",
+        "artist": "ナナヲアカリ",
+        "count": 3,
+        "key": "ダダダダ天使__ナナヲアカリ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 246,
+        "title": "立ち上がリーヨ",
+        "reading": "たちあがリーヨ",
+        "artist": "T-Pistonz",
+        "count": 1,
+        "key": "立ち上がリーヨ__t-pistonz",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 247,
+        "title": "タッチ",
+        "reading": "タッチ",
+        "artist": "岩崎良美",
+        "count": 1,
+        "key": "タッチ__岩崎良美",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 248,
+        "title": "ダブルラリアット",
+        "reading": "ダブルラリアット",
+        "artist": "アゴアニキ feat. 巡音ルカ",
+        "count": 1,
+        "key": "ダブルラリアット__アゴアニキ feat. 巡音ルカ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 249,
+        "title": "ダンスロボットダンス",
+        "reading": "ダンスロボットダンス",
+        "artist": "ナユタン星人 feat. 初音ミク",
+        "count": 5,
+        "key": "ダンスロボットダンス__ナユタン星人 feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 250,
+        "title": "DANZEN!ふたりはプリキュア",
+        "reading": "ダンゼン ふたりはプリキュア",
+        "artist": "五條真由美",
+        "count": 3,
+        "key": "danzen!ふたりはプリキュア__五條真由美",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 251,
+        "title": "小さきもの",
+        "reading": "ちいさきもの",
+        "artist": "林明日香",
+        "count": 8,
+        "key": "小さきもの__林明日香",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 252,
+        "title": "チェックメイト",
+        "reading": "チェックメイト",
+        "artist": "ゆちゃP feat. GUMI",
+        "count": 1,
+        "key": "チェックメイト__ゆちゃp feat. gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 253,
+        "title": "CH4NGE",
+        "reading": "チェンジ",
+        "artist": "Giga feat. 可不",
+        "count": 6,
+        "key": "ch4nge__giga feat. 可不",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 254,
+        "title": "地球最後の告白を",
+        "reading": "ちきゅうさいごのこくはくを",
+        "artist": "kemu feat.GUMI",
+        "count": 4,
+        "key": "地球最後の告白を__kemu feat.gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 255,
+        "title": "地球戦隊ファイブマン",
+        "reading": "ちきゅうせんたいファイブマン",
+        "artist": "鈴木けんじ",
+        "count": 3,
+        "key": "地球戦隊ファイブマン__鈴木けんじ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 256,
+        "title": "CHA-LA HEAD-CHA-LA",
+        "reading": "チャラ ヘッチャラ",
+        "artist": "影山ヒロノブ",
+        "count": 1,
+        "key": "cha-la head-cha-la__影山ヒロノブ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 257,
+        "title": "チューリングラブ",
+        "reading": "チューリングラブ",
+        "artist": "ナナヲアカリ",
+        "count": 8,
+        "key": "チューリングラブ__ナナヲアカリ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 258,
+        "title": "超獣戦隊ライブマン",
+        "reading": "ちょうじゅうせんたいライブマン",
+        "artist": "嶋大輔",
+        "count": 3,
+        "key": "超獣戦隊ライブマン__嶋大輔",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 259,
+        "title": "超新星フラッシュマン",
+        "reading": "ちょうしんせいフラッシュマン",
+        "artist": "北原拓",
+        "count": 3,
+        "key": "超新星フラッシュマン__北原拓",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 260,
+        "title": "鳥人戦隊ジェットマン",
+        "reading": "ちょうじんせんたいジェットマン",
+        "artist": "影山ヒロノブ",
+        "count": 3,
+        "key": "鳥人戦隊ジェットマン__影山ヒロノブ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 261,
+        "title": "超電子バイオマン",
+        "reading": "ちょうでんしバイオマン",
+        "artist": "宮内タカユキ",
+        "count": 3,
+        "key": "超電子バイオマン__宮内タカユキ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 262,
+        "title": "チョコレイト・ディスコ",
+        "reading": "チョコレイト・ディスコ",
+        "artist": "Perfume",
+        "count": 1,
+        "key": "チョコレイト・ディスコ__perfume",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 263,
+        "title": "チルドレンレコード",
+        "reading": "チルドレンレコード",
+        "artist": "じん feat. IA",
+        "count": 1,
+        "key": "チルドレンレコード__じん feat. ia",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 264,
+        "title": "TSUNAMI",
+        "reading": "ツナミ",
+        "artist": "サザンオールスターズ",
+        "count": 1,
+        "key": "tsunami__サザンオールスターズ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 265,
+        "title": "Dear",
+        "reading": "ディアー",
+        "artist": "19's Sound Factory feat. 初音ミク",
+        "count": 2,
+        "key": "dear__19's sound factory feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 266,
+        "title": "ディジーディジー",
+        "reading": "ディジーディジー",
+        "artist": "蜂屋ななし feat. v flower",
+        "count": 2,
+        "key": "ディジーディジー__蜂屋ななし feat. v flower",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 267,
+        "title": "テトリス",
+        "reading": "テトリス",
+        "artist": "柊マグネタイト feat. 重音テト",
+        "count": 1,
+        "key": "テトリス__柊マグネタイト feat. 重音テト",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 268,
+        "title": "デリヘル呼んだら君が来た",
+        "reading": "デリヘルよんだらきみがきた",
+        "artist": "ナナホシ管弦楽団 feat. 初音ミク",
+        "count": 4,
+        "key": "デリヘル呼んだら君が来た__ナナホシ管弦楽団 feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 269,
+        "title": "Tell Your World",
+        "reading": "テル ユア ワールド",
+        "artist": "livetune feat.初音ミク",
+        "count": 2,
+        "key": "tell your world__livetune feat.初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 270,
+        "title": "テレキャスタービーボーイ",
+        "reading": "テレキャスタービーボーイ",
+        "artist": "すりぃ feat. 鏡音レン",
+        "count": 2,
+        "key": "テレキャスタービーボーイ__すりぃ feat. 鏡音レン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 271,
+        "title": "電撃戦隊チェンジマン",
+        "reading": "でんげきせんたいチェンジマン",
+        "artist": "影山ヒロノブ",
+        "count": 3,
+        "key": "電撃戦隊チェンジマン__影山ヒロノブ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 272,
+        "title": "天才ロック",
+        "reading": "てんさいロック",
+        "artist": "カラスヤサボウ feat. 鏡音リン",
+        "count": 2,
+        "key": "天才ロック__カラスヤサボウ feat. 鏡音リン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 273,
+        "title": "電磁戦隊メガレンジャー",
+        "reading": "でんじせんたいメガレンジャー",
+        "artist": "風雅なおと",
+        "count": 3,
+        "key": "電磁戦隊メガレンジャー__風雅なおと",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 274,
+        "title": "天装戦隊ゴセイジャー",
+        "reading": "てんそうせんたいゴセイジャー",
+        "artist": "NoB(Project.R)",
+        "count": 3,
+        "key": "天装戦隊ゴセイジャー__nob(project.r)",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 275,
+        "title": "天地ガエシ",
+        "reading": "てんちガエシ",
+        "artist": "NICO Touches the Walls",
+        "count": 1,
+        "key": "天地ガエシ__nico touches the walls",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 276,
+        "title": "トウキョウ・シャンディ・ランデヴ",
+        "reading": "トウキョウ・シャンディ・ランデヴ",
+        "artist": "feat. 花譜,ツミキ/MAISONdes",
+        "count": 5,
+        "key": "トウキョウ・シャンディ・ランデヴ__feat. 花譜,ツミキ/maisondes",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 277,
+        "title": "東京テディベア",
+        "reading": "とうきょうテディベア",
+        "artist": "Neru feat. 鏡音リン",
+        "count": 2,
+        "key": "東京テディベア__neru feat. 鏡音リン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 278,
+        "title": "Together",
+        "reading": "トゥゲザー",
+        "artist": "あきよしふみえ",
+        "count": 11,
+        "key": "together__あきよしふみえ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 279,
+        "title": "動物戦隊ジュウオウジャー",
+        "reading": "どうぶつせんたいジュウオウジャー",
+        "artist": "高取ヒデアキ(Project.R)",
+        "count": 4,
+        "key": "動物戦隊ジュウオウジャー__高取ヒデアキ(project.r)",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 280,
+        "title": "透明人間",
+        "reading": "とうめいにんげん",
+        "artist": "東京事変",
+        "count": 1,
+        "key": "透明人間__東京事変",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 281,
+        "title": "ドーナツホール",
+        "reading": "ドーナツホール",
+        "artist": "ハチ feat. GUMI",
+        "count": 3,
+        "key": "ドーナツホール__ハチ feat. gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 282,
+        "title": "ドキメキダイアリー",
+        "reading": "ドキメキダイアリー",
+        "artist": "asmi feat. Chinozo",
+        "count": 2,
+        "key": "ドキメキダイアリー__asmi feat. chinozo",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 283,
+        "title": "特捜戦隊デカレンジャー",
+        "reading": "とくそうせんたいデカレンジャー",
+        "artist": "サイキックラバー",
+        "count": 4,
+        "key": "特捜戦隊デカレンジャー__サイキックラバー",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 284,
+        "title": "ドクトリーヌ",
+        "reading": "ドクトリーヌ",
+        "artist": "煮ル果実 feat. v flower",
+        "count": 2,
+        "key": "ドクトリーヌ__煮ル果実 feat. v flower",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 285,
+        "title": "年下の男の子",
+        "reading": "とししたのおとこのこ",
+        "artist": "キャンディーズ",
+        "count": 1,
+        "key": "年下の男の子__キャンディーズ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アイドル",
+        "genreText": "アイドル",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 286,
+        "title": "ドナーソング",
+        "reading": "ドナーソング",
+        "artist": "もじゃ,れるりり feat. GUMI",
+        "count": 5,
+        "key": "ドナーソング__もじゃ,れるりり feat. gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 287,
+        "title": "友よ ～ この先もずっと･･･",
+        "reading": "ともよ このさきもずっと",
+        "artist": "ケツメイシ",
+        "count": 1,
+        "key": "友よ ～ この先もずっと･･･__ケツメイシ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 288,
+        "title": "ドライフラワー",
+        "reading": "ドライフラワー",
+        "artist": "優里",
+        "count": 1,
+        "key": "ドライフラワー__優里",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 289,
+        "title": "ドラマツルギー",
+        "reading": "ドラマツルギー",
+        "artist": "Eve",
+        "count": 3,
+        "key": "ドラマツルギー__eve",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 290,
+        "title": "トリノコシティ",
+        "reading": "トリノコシティ",
+        "artist": "40mP feat.初音ミク",
+        "count": 4,
+        "key": "トリノコシティ__40mp feat.初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 291,
+        "title": "ドレミファロンド",
+        "reading": "ドレミファロンド",
+        "artist": "40mP feat.初音ミク",
+        "count": 2,
+        "key": "ドレミファロンド__40mp feat.初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 292,
+        "title": "頓珍漢の宴",
+        "reading": "とんちんかんのえん",
+        "artist": "ピノキオピー feat. 初音ミク",
+        "count": 3,
+        "key": "頓珍漢の宴__ピノキオピー feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 293,
+        "title": "トンデモワンダーズ",
+        "reading": "トンデモワンダーズ",
+        "artist": "sasakure. UK feat. 初音ミク",
+        "count": 11,
+        "key": "トンデモワンダーズ__sasakure. uk feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 294,
+        "title": "ないものねだり",
+        "reading": "ないものねだり",
+        "artist": "KANA-BOON",
+        "count": 3,
+        "key": "ないものねだり__kana-boon",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 295,
+        "title": "NOW ON AIR",
+        "reading": "ナウ オン エア",
+        "artist": "赤い公園",
+        "count": 1,
+        "key": "now on air__赤い公園",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 296,
+        "title": "涙そうそう",
+        "reading": "なだそうそう",
+        "artist": "夏川りみ",
+        "count": 1,
+        "key": "涙そうそう__夏川りみ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 297,
+        "title": "夏の思い出",
+        "reading": "なつのおもいで",
+        "artist": "ケツメイシ",
+        "count": 1,
+        "key": "夏の思い出__ケツメイシ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 298,
+        "title": "夏祭り",
+        "reading": "なつまつり",
+        "artist": "JITTERIN'JINN(cover Whiteberry)",
+        "count": 1,
+        "key": "夏祭り__jitterin'jinn(cover whiteberry)",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 299,
+        "title": "撫でんな",
+        "reading": "なでんな",
+        "artist": "柊マグネタイト feat. 可不",
+        "count": 3,
+        "key": "撫でんな__柊マグネタイト feat. 可不",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 300,
+        "title": "なにやってもうまくいかない",
+        "reading": "なにやってもうまくいかない",
+        "artist": "meiyo",
+        "count": 2,
+        "key": "なにやってもうまくいかない__meiyo",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 301,
+        "title": "名前のない怪物",
+        "reading": "なまえのないかいぶつ",
+        "artist": "EGOIST",
+        "count": 4,
+        "key": "名前のない怪物__egoist",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 302,
+        "title": "ニア",
+        "reading": "ニア",
+        "artist": "夏代孝明 feat. 初音ミク",
+        "count": 2,
+        "key": "ニア__夏代孝明 feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 303,
+        "title": "虹",
+        "reading": "にじ",
+        "artist": "Aqua Timez",
+        "count": 1,
+        "key": "虹__aqua timez",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 304,
+        "title": "猫",
+        "reading": "ねこ",
+        "artist": "DISH//",
+        "count": 3,
+        "key": "猫__dish//",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 305,
+        "title": "ネトゲ廃人シュプレヒコール",
+        "reading": "ネトゲはいじんシュプレヒコール",
+        "artist": "さつきがてんこもり feat. 初音ミク",
+        "count": 1,
+        "key": "ネトゲ廃人シュプレヒコール__さつきがてんこもり feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 306,
+        "title": "脳漿炸裂ガール",
+        "reading": "のうしょうさくれつガール",
+        "artist": "れるりり feat.初音ミク,GUMI",
+        "count": 4,
+        "key": "脳漿炸裂ガール__れるりり feat.初音ミク,gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 307,
+        "title": "脳内革命ガール",
+        "reading": "のうないかくめいガール",
+        "artist": "MARETU feat. 初音ミク",
+        "count": 3,
+        "key": "脳内革命ガール__maretu feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 308,
+        "title": "ノーダウト",
+        "reading": "ノーダウト",
+        "artist": "Official髭男dism",
+        "count": 2,
+        "key": "ノーダウト__official髭男dism",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 309,
+        "title": "パート・オブ・ユア・ワールド",
+        "reading": "パート・オブ・ユア・ワールド",
+        "artist": "すずきまゆみ",
+        "count": 2,
+        "key": "パート・オブ・ユア・ワールド__すずきまゆみ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ディズニー",
+        "genreText": "ディズニー",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 310,
+        "title": "ハイドアンド・シーク",
+        "reading": "ハイドアンド・シーク",
+        "artist": "19's Sound Factory feat. 初音ミク",
+        "count": 1,
+        "key": "ハイドアンド・シーク__19's sound factory feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 311,
+        "title": "敗北の少年",
+        "reading": "はいぼくのしょうねん",
+        "artist": "kemu feat. GUMI",
+        "count": 2,
+        "key": "敗北の少年__kemu feat. gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 312,
+        "title": "爆上戦隊ブンブンジャー",
+        "reading": "ばくあげせんたいブンブンジャー",
+        "artist": "遠藤正明",
+        "count": 3,
+        "key": "爆上戦隊ブンブンジャー__遠藤正明",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 313,
+        "title": "爆竜戦隊アバレンジャー",
+        "reading": "ばくりゅうせんたいアバレンジャー",
+        "artist": "遠藤正明",
+        "count": 5,
+        "key": "爆竜戦隊アバレンジャー__遠藤正明",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 314,
+        "title": "走れ",
+        "reading": "はしれ",
+        "artist": "KEI feat.GUMI",
+        "count": 2,
+        "key": "走れ__kei feat.gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 315,
+        "title": "バスターズレディーゴー!",
+        "reading": "バスターズレディーゴー",
+        "artist": "高橋秀幸(Project.R)",
+        "count": 4,
+        "key": "バスターズレディーゴー!__高橋秀幸(project.r)",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 316,
+        "title": "Butter-Fly",
+        "reading": "バタフライ",
+        "artist": "和田光司",
+        "count": 5,
+        "key": "butter-fly__和田光司",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 317,
+        "title": "バッド・ダンス・ホール",
+        "reading": "バッド・ダンス・ホール",
+        "artist": "カラスヤサボウ feat. 鏡音リン",
+        "count": 1,
+        "key": "バッド・ダンス・ホール__カラスヤサボウ feat. 鏡音リン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 318,
+        "title": "ハッピーサマーウェディング",
+        "reading": "ハッピーサマーウェディング",
+        "artist": "モーニング娘。",
+        "count": 1,
+        "key": "ハッピーサマーウェディング__モーニング娘。",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アイドル",
+        "genreText": "アイドル",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 319,
+        "title": "バトルフィーバーJ",
+        "reading": "バトルフィーバージェイ",
+        "artist": "MoJo,コロムビアゆりかご会,フィーリング・フリー",
+        "count": 3,
+        "key": "バトルフィーバーj__mojo,コロムビアゆりかご会,フィーリング・フリー",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 320,
+        "title": "バトルフロンティア",
+        "reading": "バトルフロンティア",
+        "artist": "高屋亜希那",
+        "count": 3,
+        "key": "バトルフロンティア__高屋亜希那",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 321,
+        "title": "花に亡霊",
+        "reading": "はなにぼうれい",
+        "artist": "ヨルシカ",
+        "count": 4,
+        "key": "花に亡霊__ヨルシカ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 322,
+        "title": "ハナミズキ",
+        "reading": "ハナミズキ",
+        "artist": "一青窈",
+        "count": 2,
+        "key": "ハナミズキ__一青窈",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 323,
+        "title": "バニー",
+        "reading": "バニー",
+        "artist": "すりぃ feat.鏡音リン",
+        "count": 3,
+        "key": "バニー__すりぃ feat.鏡音リン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 324,
+        "title": "Happiness",
+        "reading": "ハピネス",
+        "artist": "嵐",
+        "count": 1,
+        "key": "happiness__嵐",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アイドル",
+        "genreText": "アイドル",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 325,
+        "title": "パプリカ",
+        "reading": "パプリカ",
+        "artist": "Foorin",
+        "count": 1,
+        "key": "パプリカ__foorin",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 326,
+        "title": "ハム太郎 とっとこうた",
+        "reading": "ハムたろう とっとこうた",
+        "artist": "ハムちゃんず",
+        "count": 1,
+        "key": "ハム太郎 とっとこうた__ハムちゃんず",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 327,
+        "title": "パメラ",
+        "reading": "パメラ",
+        "artist": "バルーン feat. v flower",
+        "count": 1,
+        "key": "パメラ__バルーン feat. v flower",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 328,
+        "title": "VAMOLA!キョウリュウジャー",
+        "reading": "バモラ キョウリュウジャー",
+        "artist": "鎌田章吾",
+        "count": 3,
+        "key": "vamola!キョウリュウジャー__鎌田章吾",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 329,
+        "title": "パラメタ",
+        "reading": "パラメタ",
+        "artist": "40mP feat. 初音ミク",
+        "count": 1,
+        "key": "パラメタ__40mp feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 330,
+        "title": "バラライカ",
+        "reading": "バラライカ",
+        "artist": "月島きらり starring 久住小春",
+        "count": 3,
+        "key": "バラライカ__月島きらり starring 久住小春",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 331,
+        "title": "ハリケンジャー参上!",
+        "reading": "ハリケンジャーさんじょう",
+        "artist": "高取ヒデアキ",
+        "count": 3,
+        "key": "ハリケンジャー参上!__高取ヒデアキ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 332,
+        "title": "晴る",
+        "reading": "はる",
+        "artist": "ヨルシカ",
+        "count": 8,
+        "key": "晴る__ヨルシカ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 333,
+        "title": "春泥棒",
+        "reading": "はるどろぼう",
+        "artist": "ヨルシカ",
+        "count": 9,
+        "key": "春泥棒__ヨルシカ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 334,
+        "title": "春を告げる",
+        "reading": "はるをつげる",
+        "artist": "yama",
+        "count": 1,
+        "key": "春を告げる__yama",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 335,
+        "title": "バレリーコ",
+        "reading": "バレリーコ",
+        "artist": "みきとP feat. GUMI",
+        "count": 3,
+        "key": "バレリーコ__みきとp feat. gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 336,
+        "title": "ハロ/ハワユ",
+        "reading": "ハロ/ハワユ",
+        "artist": "ナノウ(ほえほえP) feat. 初音ミク",
+        "count": 1,
+        "key": "ハロ/ハワユ__ナノウ(ほえほえp) feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 337,
+        "title": "ハロー、プラネット。",
+        "reading": "ハロー プラネット",
+        "artist": "sasakure. UK feat. 初音ミク",
+        "count": 3,
+        "key": "ハロー、プラネット。__sasakure. uk feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 338,
+        "title": "Hello,Worker",
+        "reading": "ハロー ワーカー",
+        "artist": "KEI feat. 巡音ルカ",
+        "count": 3,
+        "key": "hello,worker__kei feat. 巡音ルカ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 339,
+        "title": "*ハロー、プラネット。",
+        "reading": "ハロー、プラネット",
+        "artist": "sasakure. UK feat. 初音ミク",
+        "count": 2,
+        "key": "*ハロー、プラネット。__sasakure. uk feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 340,
+        "title": "パンダヒーロー",
+        "reading": "パンダヒーロー",
+        "artist": "ハチ feat. GUMI",
+        "count": 3,
+        "key": "パンダヒーロー__ハチ feat. gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 341,
+        "title": "Be As One",
+        "reading": "ビー アズ ワン",
+        "artist": "TWICE",
+        "count": 1,
+        "key": "be as one__twice",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アイドル",
+        "genreText": "アイドル",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 342,
+        "title": "Be The One",
+        "reading": "ビー ザ ワン",
+        "artist": "PANDORA",
+        "count": 6,
+        "key": "be the one__pandora",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 343,
+        "title": "ビースト・ダンス",
+        "reading": "ビースト・ダンス",
+        "artist": "和田たけあき(くらげP) feat. 音街ウナ",
+        "count": 4,
+        "key": "ビースト・ダンス__和田たけあき(くらげp) feat. 音街ウナ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 344,
+        "title": "ピエロ",
+        "reading": "ピエロ",
+        "artist": "KEI feat.初音ミク",
+        "count": 2,
+        "key": "ピエロ__kei feat.初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 345,
+        "title": "光戦隊マスクマン",
+        "reading": "ひかりせんたいマスクマン",
+        "artist": "影山ヒロノブ",
+        "count": 3,
+        "key": "光戦隊マスクマン__影山ヒロノブ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 346,
+        "title": "ビターチョコデコレーション",
+        "reading": "ビターチョコデコレーション",
+        "artist": "syudou feat. 初音ミク",
+        "count": 4,
+        "key": "ビターチョコデコレーション__syudou feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 347,
+        "title": "独りんぼエンヴィー",
+        "reading": "ひとりんぼエンヴィー",
+        "artist": "koyori(電ポルP) feat.初音ミク",
+        "count": 4,
+        "key": "独りんぼエンヴィー__koyori(電ポルp) feat.初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 348,
+        "title": "ヒバナ",
+        "reading": "ヒバナ",
+        "artist": "DECO*27 feat. 初音ミク",
+        "count": 2,
+        "key": "ヒバナ__deco*27 feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 349,
+        "title": "ビビデバ",
+        "reading": "ビビデバ",
+        "artist": "星街すいせい",
+        "count": 4,
+        "key": "ビビデバ__星街すいせい",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "VTuber",
+        "genreText": "VTuber",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 350,
+        "title": "秒針を噛む",
+        "reading": "びょうしんをかむ",
+        "artist": "ずっと真夜中でいいのに。",
+        "count": 3,
+        "key": "秒針を噛む__ずっと真夜中でいいのに。",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 351,
+        "title": "Fire◎Flower",
+        "reading": "ファイヤー フラワー",
+        "artist": "halyosy feat. 鏡音レン",
+        "count": 2,
+        "key": "fire◎flower__halyosy feat. 鏡音レン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 352,
+        "title": "ファタール",
+        "reading": "ファタール",
+        "artist": "GEMN",
+        "count": 2,
+        "key": "ファタール__gemn",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 353,
+        "title": "F△Bulous",
+        "reading": "ファビュラス",
+        "artist": "BAE",
+        "count": 1,
+        "key": "f△bulous__bae",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 354,
+        "title": "Femme Fatale",
+        "reading": "ファム ファタール",
+        "artist": "言の葉党",
+        "count": 1,
+        "key": "femme fatale__言の葉党",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 355,
+        "title": "ファンサ",
+        "reading": "ファンサ",
+        "artist": "mona(CV.夏川椎菜) feat.HoneyWorks",
+        "count": 1,
+        "key": "ファンサ__mona(cv.夏川椎菜) feat.honeyworks",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 356,
+        "title": "フィラデルフィア",
+        "reading": "フィラデルフィア",
+        "artist": "wotaku feat.フリモメン",
+        "count": 2,
+        "key": "フィラデルフィア__wotaku feat.フリモメン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 357,
+        "title": "Booo!",
+        "reading": "ブー",
+        "artist": "TOKOTOKO(西沢さんP) feat. 音街ウナ",
+        "count": 2,
+        "key": "booo!__tokotoko(西沢さんp) feat. 音街ウナ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 358,
+        "title": "For my Stella",
+        "reading": "フォー マイ ステラ",
+        "artist": "VISTY",
+        "count": 1,
+        "key": "for my stella__visty",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 359,
+        "title": "フォニイ",
+        "reading": "フォニイ",
+        "artist": "ツミキ feat. 可不",
+        "count": 11,
+        "key": "フォニイ__ツミキ feat. 可不",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 360,
+        "title": "福音",
+        "reading": "ふくいん",
+        "artist": "wotaku feat.初音ミク",
+        "count": 1,
+        "key": "福音__wotaku feat.初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 361,
+        "title": "不思議のコハナサイチ",
+        "reading": "ふしぎのコハナサイチ",
+        "artist": "ピノキオピー feat. 初音ミク",
+        "count": 1,
+        "key": "不思議のコハナサイチ__ピノキオピー feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 362,
+        "title": "PRIDE",
+        "reading": "プライド",
+        "artist": "今井美樹",
+        "count": 1,
+        "key": "pride__今井美樹",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 363,
+        "title": "Flyer!",
+        "reading": "フライヤー",
+        "artist": "Chinozo feat. v flower",
+        "count": 7,
+        "key": "flyer!__chinozo feat. v flower",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 364,
+        "title": "フラジール",
+        "reading": "フラジール",
+        "artist": "ぬゆり feat. GUMI",
+        "count": 3,
+        "key": "フラジール__ぬゆり feat. gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 365,
+        "title": "プラネテス",
+        "reading": "プラネテス",
+        "artist": "seiza,ねこぼーろ feat. 初音ミク",
+        "count": 2,
+        "key": "プラネテス__seiza,ねこぼーろ feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 366,
+        "title": "FREELY TOMORROW",
+        "reading": "フリーリー トゥモロー",
+        "artist": "Mitchie M feat. 初音ミク",
+        "count": 1,
+        "key": "freely tomorrow__mitchie m feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 367,
+        "title": "ブリキノダンス",
+        "reading": "ブリキノダンス",
+        "artist": "日向電工 feat. 初音ミク",
+        "count": 5,
+        "key": "ブリキノダンス__日向電工 feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 368,
+        "title": "プリキュア5、スマイル go go!",
+        "reading": "プリキュアファイブ、スマイル ゴーゴー",
+        "artist": "工藤真由",
+        "count": 1,
+        "key": "プリキュア5、スマイル go go!__工藤真由",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 369,
+        "title": "Pretender",
+        "reading": "プリテンダー",
+        "artist": "Official髭男dism",
+        "count": 2,
+        "key": "pretender__official髭男dism",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 370,
+        "title": "プレイ",
+        "reading": "プレイ",
+        "artist": "りぶ",
+        "count": 1,
+        "key": "プレイ__りぶ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 371,
+        "title": "flos",
+        "reading": "フロス",
+        "artist": "R Sound Design feat. 初音ミク",
+        "count": 10,
+        "key": "flos__r sound design feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 372,
+        "title": "ふわふわ時間",
+        "reading": "ふわふわたいむ",
+        "artist": "放課後ティータイム",
+        "count": 2,
+        "key": "ふわふわ時間__放課後ティータイム",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 373,
+        "title": "ベテルギウス",
+        "reading": "ベテルギウス",
+        "artist": "優里",
+        "count": 3,
+        "key": "ベテルギウス__優里",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 374,
+        "title": "ベノム",
+        "reading": "ベノム",
+        "artist": "かいりきベア feat. v flower",
+        "count": 2,
+        "key": "ベノム__かいりきベア feat. v flower",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 375,
+        "title": "放課後ストライド",
+        "reading": "ほうかごストライド",
+        "artist": "Last Note. feat. GUMI",
+        "count": 4,
+        "key": "放課後ストライド__last note. feat. gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 376,
+        "title": "ポーカーフェイス",
+        "reading": "ポーカーフェイス",
+        "artist": "ゆちゃP feat. GUMI",
+        "count": 1,
+        "key": "ポーカーフェイス__ゆちゃp feat. gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 377,
+        "title": "ポーズ",
+        "reading": "ポーズ",
+        "artist": "岡崎体育",
+        "count": 1,
+        "key": "ポーズ__岡崎体育",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 378,
+        "title": "ポケモン言えるかな? BW",
+        "reading": "ポケモンいえるかな びーダブリュー",
+        "artist": "つるの 剛士",
+        "count": 1,
+        "key": "ポケモン言えるかな? bw__つるの 剛士",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 379,
+        "title": "星屑サンセット",
+        "reading": "ほしくずサンセット",
+        "artist": "YUKI",
+        "count": 1,
+        "key": "星屑サンセット__yuki",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 380,
+        "title": "POP STAR",
+        "reading": "ポップ スター",
+        "artist": "平井堅",
+        "count": 1,
+        "key": "pop star__平井堅",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 381,
+        "title": "potatoになっていく",
+        "reading": "ポテトになっていく",
+        "artist": "Neru feat. 鏡音リン,鏡音レン",
+        "count": 4,
+        "key": "potatoになっていく__neru feat. 鏡音リン,鏡音レン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 382,
+        "title": "ボトム",
+        "reading": "ボトム",
+        "artist": "柊キライ feat. v flower",
+        "count": 3,
+        "key": "ボトム__柊キライ feat. v flower",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 383,
+        "title": "ポニーテールとシュシュ",
+        "reading": "ポニーテールとシュシュ",
+        "artist": "AKB48",
+        "count": 1,
+        "key": "ポニーテールとシュシュ__akb48",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アイドル",
+        "genreText": "アイドル",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 384,
+        "title": "炎",
+        "reading": "ほむら",
+        "artist": "LiSA",
+        "count": 2,
+        "key": "炎__lisa",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 385,
+        "title": "ボルテッカー",
+        "reading": "ボルテッカー",
+        "artist": "DECO*27 feat. 初音ミク",
+        "count": 3,
+        "key": "ボルテッカー__deco*27 feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 386,
+        "title": "V(ボルト)",
+        "reading": "ボルト",
+        "artist": "遊助",
+        "count": 2,
+        "key": "v(ボルト)__遊助",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 387,
+        "title": "マーシャル・マキシマイザー",
+        "reading": "マーシャル・マキシマイザー",
+        "artist": "柊マグネタイト feat. 可不",
+        "count": 8,
+        "key": "マーシャル・マキシマイザー__柊マグネタイト feat. 可不",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 388,
+        "title": "負けないで",
+        "reading": "まけないで",
+        "artist": "ZARD",
+        "count": 1,
+        "key": "負けないで__zard",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 389,
+        "title": "マジで感謝!",
+        "reading": "マジでかんどう",
+        "artist": "T-Pistonz,KMC",
+        "count": 1,
+        "key": "マジで感謝!__t-pistonz,kmc",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 390,
+        "title": "本気ボンバー!!",
+        "reading": "まじボンバー",
+        "artist": "Berryz工房",
+        "count": 3,
+        "key": "本気ボンバー!!__berryz工房",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 391,
+        "title": "マジンガーZ",
+        "reading": "マジンガーゼット",
+        "artist": "水木一郎",
+        "count": 1,
+        "key": "マジンガーz__水木一郎",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 392,
+        "title": "魔進戦隊キラメイジャー",
+        "reading": "ましんせんたいキラメイジャー",
+        "artist": "大西洋平",
+        "count": 3,
+        "key": "魔進戦隊キラメイジャー__大西洋平",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 393,
+        "title": "真っ逆さまサマー",
+        "reading": "まっさかさまサマー",
+        "artist": "はるな。 feat. 初音ミク",
+        "count": 4,
+        "key": "真っ逆さまサマー__はるな。 feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 394,
+        "title": "真夏の果実",
+        "reading": "まなつのかじつ",
+        "artist": "サザンオールスターズ",
+        "count": 2,
+        "key": "真夏の果実__サザンオールスターズ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 395,
+        "title": "マフィア",
+        "reading": "マフィア",
+        "artist": "wotaku feat.初音ミク",
+        "count": 1,
+        "key": "マフィア__wotaku feat.初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 396,
+        "title": "魔法少女とチョコレゐト",
+        "reading": "まほうしょうじょとチョコレイト",
+        "artist": "ピノキオピー feat. 初音ミク",
+        "count": 4,
+        "key": "魔法少女とチョコレゐト__ピノキオピー feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 397,
+        "title": "魔法戦隊マジレンジャー",
+        "reading": "まほうせんたいマジレンジャー",
+        "artist": "岩崎貴文",
+        "count": 4,
+        "key": "魔法戦隊マジレンジャー__岩崎貴文",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 398,
+        "title": "マリーゴールド",
+        "reading": "マリーゴールド",
+        "artist": "あいみょん",
+        "count": 4,
+        "key": "マリーゴールド__あいみょん",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 399,
+        "title": "丸ノ内サディスティック",
+        "reading": "まるのうちサディスティック",
+        "artist": "椎名林檎",
+        "count": 3,
+        "key": "丸ノ内サディスティック__椎名林檎",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "未分類",
+        "genreText": "未分類",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 400,
+        "title": "回る空うさぎ",
+        "reading": "まわるそらうさぎ",
+        "artist": "Orangestar feat. 初音ミク",
+        "count": 6,
+        "key": "回る空うさぎ__orangestar feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 401,
+        "title": "右肩の蝶",
+        "reading": "みぎかたのちょう",
+        "artist": "のりぴー feat. 鏡音レン",
+        "count": 1,
+        "key": "右肩の蝶__のりぴー feat. 鏡音レン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 402,
+        "title": "右に曲ガール",
+        "reading": "みぎにまガール",
+        "artist": "はるふり feat. 重音テト",
+        "count": 2,
+        "key": "右に曲ガール__はるふり feat. 重音テト",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 403,
+        "title": "みくみくにしてあげる♪【してやんよ】",
+        "reading": "みくみくにしてあげる してやんよ",
+        "artist": "ika feat.初音ミク",
+        "count": 1,
+        "key": "みくみくにしてあげる♪【してやんよ】__ika feat.初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 404,
+        "title": "三十路ボンバイエ",
+        "reading": "みそじボンバイエ",
+        "artist": "ケツメイシ",
+        "count": 1,
+        "key": "三十路ボンバイエ__ケツメイシ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 405,
+        "title": "ミックスナッツ",
+        "reading": "ミックスナッツ",
+        "artist": "Official髭男dism",
+        "count": 6,
+        "key": "ミックスナッツ__official髭男dism",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 406,
+        "title": "未来コネクション",
+        "reading": "みらいコネクション",
+        "artist": "ЯeaL",
+        "count": 3,
+        "key": "未来コネクション__яeal",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 407,
+        "title": "ムーンライト伝説",
+        "reading": "ムーンライトでんせつ",
+        "artist": "DALI",
+        "count": 1,
+        "key": "ムーンライト伝説__dali",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 408,
+        "title": "結ンデ開イテ羅刹ト骸",
+        "reading": "むすんでひらいてらせつとむくろ",
+        "artist": "ハチ feat. 初音ミク",
+        "count": 1,
+        "key": "結ンデ開イテ羅刹ト骸__ハチ feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 409,
+        "title": "めざせポケモンマスター",
+        "reading": "めざせポケモンマスター",
+        "artist": "松本 梨香",
+        "count": 3,
+        "key": "めざせポケモンマスター__松本 梨香",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 410,
+        "title": "Mela!",
+        "reading": "メラ",
+        "artist": "緑黄色社会",
+        "count": 3,
+        "key": "mela!__緑黄色社会",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 411,
+        "title": "メランコリック",
+        "reading": "メランコリック",
+        "artist": "Junky feat.鏡音リン",
+        "count": 3,
+        "key": "メランコリック__junky feat.鏡音リン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 412,
+        "title": "メルト",
+        "reading": "メルト",
+        "artist": "ryo(supercell) feat. 初音ミク",
+        "count": 3,
+        "key": "メルト__ryo(supercell) feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 413,
+        "title": "メンタルチェンソー",
+        "reading": "メンタルチェンソー",
+        "artist": "P丸様。",
+        "count": 5,
+        "key": "メンタルチェンソー__p丸様。",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "VTuber",
+        "genreText": "VTuber",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 414,
+        "title": "妄想疾患■ガール",
+        "reading": "もうそうしっかんやみガール",
+        "artist": "もじゃ,れるりり feat. GUMI",
+        "count": 1,
+        "key": "妄想疾患■ガール__もじゃ,れるりり feat. gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 415,
+        "title": "妄想税",
+        "reading": "もうそうぜい",
+        "artist": "DECO*27 feat. 初音ミク",
+        "count": 1,
+        "key": "妄想税__deco*27 feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 416,
+        "title": "モーフィン!ムービン!バスターズシップ!",
+        "reading": "モーフィン ムービン バスターズシップ",
+        "artist": "高橋秀幸 (Project.R)",
+        "count": 1,
+        "key": "モーフィン!ムービン!バスターズシップ!__高橋秀幸 (project.r)",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 417,
+        "title": "もっふんのうた",
+        "reading": "もっふんのうた",
+        "artist": "吉田仁美",
+        "count": 2,
+        "key": "もっふんのうた__吉田仁美",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 418,
+        "title": "モニタリング",
+        "reading": "モニタリング",
+        "artist": "DECO*27 feat. 初音ミク",
+        "count": 1,
+        "key": "モニタリング__deco*27 feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 419,
+        "title": "ヤキモチの答え-another story-",
+        "reading": "ヤキモチのこたえ アナザー ストーリー",
+        "artist": "HoneyWorks feat.初音ミク",
+        "count": 1,
+        "key": "ヤキモチの答え-another story-__honeyworks feat.初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 420,
+        "title": "やっぱ青春",
+        "reading": "やっぱせいしゅん",
+        "artist": "空野葵(CV.北原沙弥香)",
+        "count": 1,
+        "key": "やっぱ青春__空野葵(cv.北原沙弥香)",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 421,
+        "title": "You got game?",
+        "reading": "ユー ガット ゲーム",
+        "artist": "Kimeru",
+        "count": 1,
+        "key": "you got game?__kimeru",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 422,
+        "title": "夕暮れ先生",
+        "reading": "ゆうぐれせんせい",
+        "artist": "石風呂 feat.miki",
+        "count": 2,
+        "key": "夕暮れ先生__石風呂 feat.miki",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 423,
+        "title": "夕景イエスタデイ",
+        "reading": "ゆうけいイエスタデイ",
+        "artist": "じん feat. IA",
+        "count": 1,
+        "key": "夕景イエスタデイ__じん feat. ia",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 424,
+        "title": "勇者",
+        "reading": "ゆうしゃ",
+        "artist": "YOASOBI",
+        "count": 6,
+        "key": "勇者__yoasobi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 425,
+        "title": "夕立のりぼん",
+        "reading": "ゆうだちのりぼん",
+        "artist": "みきとP feat. MAYU",
+        "count": 3,
+        "key": "夕立のりぼん__みきとp feat. mayu",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 426,
+        "title": "幽霊東京",
+        "reading": "ゆうれいとうきょう",
+        "artist": "Ayase feat. 初音ミク",
+        "count": 6,
+        "key": "幽霊東京__ayase feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 427,
+        "title": "YUME日和",
+        "reading": "ユメびより",
+        "artist": "島谷ひとみ",
+        "count": 3,
+        "key": "yume日和__島谷ひとみ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 428,
+        "title": "夢をかなえてドラえもん",
+        "reading": "ゆめをかなえてドラえもん",
+        "artist": "mao",
+        "count": 1,
+        "key": "夢をかなえてドラえもん__mao",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 429,
+        "title": "ゆるふわ樹海ガール",
+        "reading": "ゆるふわじゅかいガール",
+        "artist": "石風呂 feat.初音ミク",
+        "count": 3,
+        "key": "ゆるふわ樹海ガール__石風呂 feat.初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 430,
+        "title": "夜明けと蛍",
+        "reading": "よあけとほたる",
+        "artist": "n-buna feat.初音ミク",
+        "count": 11,
+        "key": "夜明けと蛍__n-buna feat.初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 431,
+        "title": "酔いどれ知らず",
+        "reading": "よいどれしらず",
+        "artist": "Kanaria feat. GUMI",
+        "count": 5,
+        "key": "酔いどれ知らず__kanaria feat. gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 432,
+        "title": "ようかい体操第一",
+        "reading": "ようかいたいそうだいいち",
+        "artist": "Dream5",
+        "count": 1,
+        "key": "ようかい体操第一__dream5",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 433,
+        "title": "ようこそジャパリパークへ",
+        "reading": "ようこそジャパリパークへ",
+        "artist": "どうぶつビスケッツ×PPP",
+        "count": 1,
+        "key": "ようこそジャパリパークへ__どうぶつビスケッツ×ppp",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 434,
+        "title": "吉原ラメント",
+        "reading": "よしはらラメント",
+        "artist": "亜沙 feat.重音テト",
+        "count": 1,
+        "key": "吉原ラメント__亜沙 feat.重音テト",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 435,
+        "title": "夜空ノムコウ",
+        "reading": "よぞらノムコウ",
+        "artist": "SMAP",
+        "count": 2,
+        "key": "夜空ノムコウ__smap",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アイドル",
+        "genreText": "アイドル",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 436,
+        "title": "YONA YONA DANCE",
+        "reading": "ヨナ ヨナ ダンス",
+        "artist": "和田アキ子",
+        "count": 4,
+        "key": "yona yona dance__和田アキ子",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 437,
+        "title": "夜咄ディセイブ",
+        "reading": "よばなしディセイブ",
+        "artist": "じん(自然の敵P)  feat.IA",
+        "count": 1,
+        "key": "夜咄ディセイブ__じん(自然の敵p)  feat.ia",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 438,
+        "title": "夜もすがら君想ふ",
+        "reading": "よもすがらきみおもう",
+        "artist": "TOKOTOKO(西沢さんP) feat. GUMI",
+        "count": 7,
+        "key": "夜もすがら君想ふ__tokotoko(西沢さんp) feat. gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 439,
+        "title": "夜に駆ける",
+        "reading": "よるにかける",
+        "artist": "YOASOBI",
+        "count": 14,
+        "key": "夜に駆ける__yoasobi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 440,
+        "title": "夜のピエロ",
+        "reading": "よるのピエロ",
+        "artist": "Ado",
+        "count": 5,
+        "key": "夜のピエロ__ado",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 441,
+        "title": "Life is SHOW TIME",
+        "reading": "ライフ イズ ショー タイム",
+        "artist": "鬼龍院翔",
+        "count": 1,
+        "key": "life is show time__鬼龍院翔",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 442,
+        "title": "ライラック",
+        "reading": "ライラック",
+        "artist": "Mrs. GREEN APPLE",
+        "count": 1,
+        "key": "ライラック__mrs. green apple",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 443,
+        "title": "ラヴィ",
+        "reading": "ラヴィ",
+        "artist": "すりぃ feat. 鏡音レン",
+        "count": 3,
+        "key": "ラヴィ__すりぃ feat. 鏡音レン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 444,
+        "title": "ROWDIEZ -悪漢奴等 Wanted Vibes-",
+        "reading": "ラウディーズ あかんやつら ウォンテッド ヴァイブス",
+        "artist": "悪漢奴等",
+        "count": 1,
+        "key": "rowdiez -悪漢奴等 wanted vibes-__悪漢奴等",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 445,
+        "title": "LUCKYSTAR",
+        "reading": "ラッキースター",
+        "artist": "幡野智宏(Project.R)",
+        "count": 4,
+        "key": "luckystar__幡野智宏(project.r)",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 446,
+        "title": "LOVEマシーン",
+        "reading": "ラブマシーン",
+        "artist": "モーニング娘。",
+        "count": 1,
+        "key": "loveマシーン__モーニング娘。",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アイドル",
+        "genreText": "アイドル",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 447,
+        "title": "RE:I AM",
+        "reading": "リ アイアム",
+        "artist": "Aimer",
+        "count": 2,
+        "key": "re:i am__aimer",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 448,
+        "title": "LEAP HIGH! 〜明日へ、めいっぱい〜",
+        "reading": "リープ ハイ あしたへ、めいっぱい",
+        "artist": "PRODUCE 101 JAPAN THE GIRLS",
+        "count": 1,
+        "key": "leap high! 〜明日へ、めいっぱい〜__produce 101 japan the girls",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アイドル",
+        "genreText": "アイドル",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 449,
+        "title": "ルカルカ★ナイトフィーバー",
+        "reading": "ルカルカ ナイトフィーバー",
+        "artist": "samfree feat. 巡音ルカ",
+        "count": 1,
+        "key": "ルカルカ★ナイトフィーバー__samfree feat. 巡音ルカ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 450,
+        "title": "ルパンレンジャーVSパトレンジャー",
+        "reading": "ルパンレンジャー ブイエス パトレンジャー",
+        "artist": "Project.R(吉田達彦,吉田仁美)",
+        "count": 4,
+        "key": "ルパンレンジャーvsパトレンジャー__project.r(吉田達彦,吉田仁美)",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 451,
+        "title": "ルマ",
+        "reading": "ルマ",
+        "artist": "かいりきベア feat. 初音ミク",
+        "count": 5,
+        "key": "ルマ__かいりきベア feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 452,
+        "title": "烈車戦隊トッキュウジャー",
+        "reading": "れっしゃせんたいトッキュウジャー",
+        "artist": "伊勢大貴",
+        "count": 6,
+        "key": "烈車戦隊トッキュウジャー__伊勢大貴",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 453,
+        "title": "劣等上等",
+        "reading": "れっとうじょうとう",
+        "artist": "Giga feat. 鏡音リン,鏡音レン",
+        "count": 2,
+        "key": "劣等上等__giga feat. 鏡音リン,鏡音レン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 454,
+        "title": "恋愛サーキュレーション",
+        "reading": "れんあいサーキュレーション",
+        "artist": "千石撫子(CV.花澤香菜)",
+        "count": 1,
+        "key": "恋愛サーキュレーション__千石撫子(cv.花澤香菜)",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アイドル",
+        "genreText": "アイドル",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 455,
+        "title": "恋愛裁判",
+        "reading": "れんあいさいばん",
+        "artist": "40mP feat.初音ミク",
+        "count": 4,
+        "key": "恋愛裁判__40mp feat.初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 456,
+        "title": "恋愛レボリューション21",
+        "reading": "れんあいレボリューションにじゅういち",
+        "artist": "モーニング娘。",
+        "count": 3,
+        "key": "恋愛レボリューション21__モーニング娘。",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アイドル",
+        "genreText": "アイドル",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 457,
+        "title": "ロウワー",
+        "reading": "ロウワー",
+        "artist": "ぬゆり feat. v flower",
+        "count": 3,
+        "key": "ロウワー__ぬゆり feat. v flower",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 458,
+        "title": "ローリンガール",
+        "reading": "ローリンガール",
+        "artist": "wowaka feat. 初音ミク",
+        "count": 1,
+        "key": "ローリンガール__wowaka feat. 初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 459,
+        "title": "ロキ",
+        "reading": "ロキ",
+        "artist": "みきとP feat. 鏡音リン",
+        "count": 3,
+        "key": "ロキ__みきとp feat. 鏡音リン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 460,
+        "title": "六兆年と一夜物語",
+        "reading": "ろくちょうねんといちやものがたり",
+        "artist": "kemu feat.IA",
+        "count": 3,
+        "key": "六兆年と一夜物語__kemu feat.ia",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 461,
+        "title": "炉心融解",
+        "reading": "ろしんゆうかい",
+        "artist": "iroha(sasaki) feat. 鏡音リン",
+        "count": 3,
+        "key": "炉心融解__iroha(sasaki) feat. 鏡音リン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 462,
+        "title": "ロスタイムメモリー",
+        "reading": "ロスタイムメモリー",
+        "artist": "じん feat.IA",
+        "count": 1,
+        "key": "ロスタイムメモリー__じん feat.ia",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 463,
+        "title": "ロストマン",
+        "reading": "ロストマン",
+        "artist": "BUMP OF CHICKEN",
+        "count": 1,
+        "key": "ロストマン__bump of chicken",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 464,
+        "title": "ロストワンの号哭",
+        "reading": "ロストワンのごうこく",
+        "artist": "Neru feat. 鏡音リン",
+        "count": 4,
+        "key": "ロストワンの号哭__neru feat. 鏡音リン",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 465,
+        "title": "ロマンスの神様",
+        "reading": "ロマンスのかみさま",
+        "artist": "広瀬香美",
+        "count": 1,
+        "key": "ロマンスの神様__広瀬香美",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 466,
+        "title": "浪漫飛行",
+        "reading": "ろまんひこう",
+        "artist": "米米CLUB",
+        "count": 3,
+        "key": "浪漫飛行__米米club",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "J-POP",
+        "genreText": "J-POP",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 467,
+        "title": "ロミオとシンデレラ",
+        "reading": "ロミオとシンデレラ",
+        "artist": "doriko feat.初音ミク",
+        "count": 4,
+        "key": "ロミオとシンデレラ__doriko feat.初音ミク",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 468,
+        "title": "ロメオ",
+        "reading": "ロメオ",
+        "artist": "HoneyWorks,おればななP feat. 初音ミク,GUMI",
+        "count": 2,
+        "key": "ロメオ__honeyworks,おればななp feat. 初音ミク,gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 469,
+        "title": "ワールズエンド・ダンスホール",
+        "reading": "ワールズエンド・ダンスホール",
+        "artist": "wowaka feat. 初音ミク,巡音ルカ",
+        "count": 2,
+        "key": "ワールズエンド・ダンスホール__wowaka feat. 初音ミク,巡音ルカ",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 470,
+        "title": "ワールド・ランプシェード",
+        "reading": "ワールド・ランプシェード",
+        "artist": "buzzG feat. GUMI",
+        "count": 1,
+        "key": "ワールド・ランプシェード__buzzg feat. gumi",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ボカロ",
+        "genreText": "ボカロ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 471,
+        "title": "我ら思う､故に我ら在り",
+        "reading": "われらおもう ゆえにわれらあり",
+        "artist": "氣志團",
+        "count": 2,
+        "key": "我ら思う､故に我ら在り__氣志團",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "ニチアサ",
+        "genreText": "ニチアサ",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 472,
+        "title": "Wonderful Days",
+        "reading": "ワンダフル デイズ",
+        "artist": "プルタブと缶",
+        "count": 1,
+        "key": "wonderful days__プルタブと缶",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 473,
+        "title": "1・2・3",
+        "reading": "ワンツースリー",
+        "artist": "After the Rain",
+        "count": 2,
+        "key": "1・2・3__after the rain",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      },
+      {
+        "sourceIndex": 474,
+        "title": "１ドリーム",
+        "reading": "ワンドリーム",
+        "artist": "リトルブルーボックス",
+        "count": 1,
+        "key": "１ドリーム__リトルブルーボックス",
+        "displayKey": "",
+        "keyText": "",
+        "genre": "アニソン",
+        "genreText": "アニソン",
+        "channels": [
+          "new"
+        ]
+      }
+    ]
+  }
+}

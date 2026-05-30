@@ -1,0 +1,6 @@
+video_id,date,title,url,song_count,raw_line_count,source,block_index,song_1,song_2,raw_block
+stream-sub-01,2026/04/28,サブch サンプル歌枠 01,https://example.com/stream-sub-01,2,5,pasted,1,Sample Star / Sample Vtuber,First Step / Example Band,"https://example.com/stream-sub-01
+2026/04/28
+サブch サンプル歌枠 01
+00:05 Sample Star / Sample Vtuber
+04:20 First Step / Example Band"

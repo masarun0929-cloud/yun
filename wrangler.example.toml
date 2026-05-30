@@ -1,0 +1,11 @@
+# Optional Cloudflare Pages local/declarative config.
+# Copy to wrangler.toml only after replacing database_id.
+
+name = "sazanami-yun-songlist"
+pages_build_output_dir = "docs"
+compatibility_date = "2026-05-23"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "sazanami-yun-songlist-prod"
+database_id = "replace_with_cloudflare_d1_database_id"

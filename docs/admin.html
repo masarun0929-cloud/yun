@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="ja" data-theme="auto">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>歌枠管理｜一色イズ　歌唱データベース</title>
+<meta name="robots" content="noindex">
+<link rel="icon" type="image/svg+xml" href="assets/site-icon.svg">
+<link rel="stylesheet" href="css/theme.css">
+<link rel="stylesheet" href="css/components.css">
+<link rel="stylesheet" href="css/views.css">
+<link rel="stylesheet" href="css/admin.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner container">
+    <a class="brand" href="./" aria-label="歌唱データベース ホーム">
+      <img class="brand-icon" src="assets/site-icon.svg" alt="" width="28" height="28">
+      <span class="brand-text">
+        <span class="brand-title">歌枠管理</span>
+        <span class="brand-sub">Cloudflare D1 / GitHub Actions</span>
+      </span>
+    </a>
+    <div class="topbar-actions">
+      <a class="btn ghost" href="./">サイトへ戻る</a>
+      <button class="theme-toggle" id="theme-toggle" type="button" aria-label="テーマ切替">
+        <span class="theme-icon" id="theme-icon">🌗</span>
+        <span class="theme-label" id="theme-label">auto</span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main class="container admin-main">
+  <section class="admin-hero">
+    <div>
+      <h1>歌枠管理</h1>
+      <p>スマホから歌枠・リアルライブ情報・ジャンルをD1へ追加し、静的JSON生成を開始できます。</p>
+    </div>
+    <button class="btn primary" id="refresh-status" type="button">再チェック</button>
+  </section>
+
+  <section class="admin-panel">
+    <div class="section-header">
+      <h2>歌枠追加</h2>
+      <span class="badge accent">D1更新</span>
+    </div>
+    <div class="admin-form-grid">
+      <label>管理トークン<input id="admin-token" type="password" autocomplete="current-password" placeholder="ADMIN_TOKENを設定した場合だけ入力"></label>
+      <label>チャンネル<select id="channel"></select></label>
+      <label>配信日<input id="streamed-on" type="date"></label>
+      <label>枠番号<input id="source-index" type="number" min="1" placeholder="空なら自動採番"></label>
+      <label>配信タイトル<input id="stream-title" type="text"></label>
+      <label>URL<input id="stream-url" type="url" placeholder="https://..."></label>
+    </div>
+    <label class="admin-field-full">曲リスト<textarea id="songs-text" placeholder="曲名 / アーティスト&#10;曲名 / アーティスト | +2 | アニソン"></textarea></label>
+    <div class="admin-actions">
+      <button class="btn ghost" id="preview-stream" type="button">プレビュー</button>
+      <button class="btn primary" id="submit-stream" type="button">D1に登録</button>
+    </div>
+    <p class="admin-note" id="stream-status"></p>
+    <div id="preview-box"></div>
+  </section>
+
+  <section class="admin-panel">
+    <div class="section-header">
+      <h2>リアルライブ情報</h2>
+      <span class="badge accent">ライブ情報</span>
+    </div>
+    <p class="admin-note">公開サイトの「ライブ情報」タブに表示する閲覧専用データをD1へ追加します。</p>
+    <div class="admin-form-grid">
+      <label>ライブ日<input id="live-performed-on" type="date"></label>
+      <label>ライブ番号<input id="live-source-index" type="number" min="1" placeholder="空なら自動採番"></label>
+      <label>ライブ名称<input id="live-title" type="text"></label>
+    </div>
+    <label class="admin-field-full">ライブセトリ<textarea id="live-songs-text" placeholder="曲名 / アーティスト&#10;曲名だけでも既存曲が1件なら紐づきます"></textarea></label>
+    <div class="admin-actions">
+      <button class="btn primary" id="submit-live" type="button">ライブ情報を登録</button>
+    </div>
+    <p class="admin-note" id="live-status"></p>
+  </section>
+
+  <section class="admin-panel">
+    <div class="section-header">
+      <h2>キー・ジャンル管理</h2>
+      <span class="badge" id="meta-badge">待機中</span>
+    </div>
+    <div class="admin-form-grid">
+      <label>曲検索<input id="song-query" type="search" placeholder="曲名 / 歌手 / キー / ジャンル"></label>
+      <label>Spreadsheet URL<input id="key-sheet-url" type="url" placeholder="https://docs.google.com/spreadsheets/d/.../edit#gid=..."></label>
+      <label>CSVファイル<input id="key-csv-file" type="file" accept=".csv,text/csv"></label>
+    </div>
+    <div class="admin-actions">
+      <button class="btn ghost" id="search-songs" type="button">検索</button>
+      <button class="btn ghost" id="sync-keys" type="button">Spreadsheetから同期</button>
+      <button class="btn ghost" id="sync-key-csv" type="button">CSVから同期</button>
+    </div>
+    <p class="admin-note" id="meta-status"></p>
+    <div id="song-meta-box"></div>
+  </section>
+
+  <section class="admin-panel">
+    <div class="section-header">
+      <h2>静的データ生成</h2>
+      <span class="badge" id="static-badge">GitHub Actions</span>
+    </div>
+    <p class="admin-note">D1の現在の内容から <code>docs/data/*.json</code> を生成するGitHub Actionsを起動します。完了後、GitHubへのcommitとCloudflare Pagesの再デプロイが自動で進みます。</p>
+    <div class="admin-actions">
+      <button class="btn primary" id="generate-static-data" type="button">静的データ生成を開始</button>
+    </div>
+    <p class="admin-note" id="static-status"></p>
+  </section>
+
+  <section class="admin-grid">
+    <article class="admin-panel">
+      <div class="section-header">
+        <h2>APIステータス</h2>
+        <span class="badge" id="api-badge">確認中</span>
+      </div>
+      <div class="admin-stats" id="api-stats">
+        <div class="stat-card placeholder"></div>
+        <div class="stat-card placeholder"></div>
+        <div class="stat-card placeholder"></div>
+      </div>
+      <p class="admin-note" id="api-detail">/api/data を読み込んでいます。</p>
+    </article>
+
+    <article class="admin-panel">
+      <div class="section-header">
+        <h2>チャンネル別</h2>
+      </div>
+      <div class="admin-table-wrap">
+        <table class="admin-table">
+          <thead>
+            <tr>
+              <th>チャンネル</th>
+              <th>曲</th>
+              <th>歌枠</th>
+              <th>総歌唱</th>
+              <th>最新</th>
+            </tr>
+          </thead>
+          <tbody id="channel-rows">
+            <tr><td colspan="5">読み込み中</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </article>
+  </section>
+
+  <section class="admin-grid">
+    <article class="admin-panel">
+      <div class="section-header">
+        <h2>反映状態</h2>
+        <span class="badge" id="sync-badge">確認中</span>
+      </div>
+      <div class="admin-status-list" id="sync-status">
+        <div class="admin-note">確認中</div>
+      </div>
+    </article>
+
+    <article class="admin-panel">
+      <div class="section-header">
+        <h2>データ品質</h2>
+        <span class="badge" id="quality-badge">確認中</span>
+      </div>
+      <div class="admin-status-list" id="quality-summary">
+        <div class="admin-note">確認中</div>
+      </div>
+    </article>
+  </section>
+
+  <section class="admin-panel">
+    <div class="section-header">
+      <h2>確認が必要な項目</h2>
+      <span class="badge" id="issue-count">—</span>
+    </div>
+    <div class="admin-table-wrap">
+      <table class="admin-table">
+        <thead>
+          <tr>
+            <th>種別</th>
+            <th>場所</th>
+            <th>内容</th>
+          </tr>
+        </thead>
+        <tbody id="quality-rows">
+          <tr><td colspan="3">読み込み中</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="admin-panel">
+    <div class="section-header">
+      <h2>更新手順</h2>
+    </div>
+    <ol class="admin-steps">
+      <li>ローカル管理画面またはD1 Consoleで歌枠データを更新する。</li>
+      <li>管理画面の「静的JSONを生成」で <code>docs/data/*.json</code> を更新する。</li>
+      <li>変更をGitへcommit/pushしてCloudflare Pagesへ反映する。</li>
+      <li>反映後、このページで件数と最新日付を確認する。</li>
+    </ol>
+    <div class="command-grid">
+      <div>
+        <h3>管理画面</h3>
+        <pre><code>node admin-server\server.js
+tailscale serve http://127.0.0.1:8788</code></pre>
+      </div>
+      <div>
+        <h3>Spreadsheet移行時</h3>
+        <pre><code>$env:SONGLIST_SPREADSHEET_ID="your_spreadsheet_id"
+$env:SONGLIST_NEW_LIST_GID="0"
+$env:SONGLIST_NEW_SETLIST_GID="123456789"</code></pre>
+      </div>
+    </div>
+    <p class="admin-note">Cloudflare API token、ADMIN_TOKEN、Supabase secret keyはこのページやGitHubには保存しません。</p>
+  </section>
+</main>
+
+<script type="module" src="js/admin.js"></script>
+</body>
+</html>

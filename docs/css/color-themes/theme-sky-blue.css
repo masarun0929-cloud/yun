@@ -1,0 +1,110 @@
+/* Sky Blue: clear, clean, and airy. Load after css/theme.css. */
+
+:root,
+:root[data-theme="light"],
+:root[data-theme="auto"] {
+  color-scheme: light;
+  --bg-1: #eefaff;
+  --bg-2: #bfe8ff;
+  --bg-radial-1: #ffffff;
+  --bg-radial-2: #e2f7d8;
+  --surface: #ffffff;
+  --surface-2: #f5fbff;
+  --surface-3: #e5f4fb;
+  --surface-glass: rgba(255, 255, 255, 0.86);
+  --border: #b8e2f7;
+  --border-soft: #ddeff8;
+  --border-strong: #83c9ec;
+  --ink: #173f59;
+  --ink-soft: #466f87;
+  --ink-mute: #6d91a6;
+  --primary: #309ed4;
+  --primary-strong: #1679ad;
+  --primary-soft: #dff5ff;
+  --accent: #80bd57;
+  --accent-strong: #5b9038;
+  --accent-soft: #e2f7d8;
+  --gold: #f4c44a;
+  --silver: #b8c9d4;
+  --bronze: #d49a6a;
+  --green-bg: #d8f5e0;
+  --green-text: #3a8553;
+  --orange-bg: #fde7d8;
+  --orange-text: #b56730;
+  --red: #df3f4f;
+  --shadow-sm: 0 2px 8px rgba(48, 158, 212, 0.14);
+  --shadow: 0 8px 24px rgba(48, 158, 212, 0.21);
+  --shadow-lg: 0 16px 40px rgba(48, 158, 212, 0.27);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root[data-theme="auto"] {
+    color-scheme: dark;
+    --bg-1: #081b2a;
+    --bg-2: #11324d;
+    --bg-radial-1: #1e4c6d;
+    --bg-radial-2: #17381f;
+    --surface: #11263a;
+    --surface-2: #17314a;
+    --surface-3: #1f3d5a;
+    --surface-glass: rgba(17, 38, 58, 0.86);
+    --border: #294967;
+    --border-soft: #203d59;
+    --border-strong: #4c83a8;
+    --ink: #e8f6ff;
+    --ink-soft: #bdd7e8;
+    --ink-mute: #86a9bf;
+    --primary: #70cfff;
+    --primary-strong: #aee5ff;
+    --primary-soft: #1c4764;
+    --accent: #a6dd7b;
+    --accent-strong: #cbf2aa;
+    --accent-soft: #1d3d27;
+    --gold: #f4c44a;
+    --silver: #d0d8e0;
+    --bronze: #d49a6a;
+    --green-bg: #1f4030;
+    --green-text: #7ad99c;
+    --orange-bg: #4a2c1a;
+    --orange-text: #ffb084;
+    --red: #ff7575;
+    --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.40);
+    --shadow: 0 8px 24px rgba(0, 0, 0, 0.50);
+    --shadow-lg: 0 16px 40px rgba(0, 0, 0, 0.60);
+  }
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg-1: #081b2a;
+  --bg-2: #11324d;
+  --bg-radial-1: #1e4c6d;
+  --bg-radial-2: #17381f;
+  --surface: #11263a;
+  --surface-2: #17314a;
+  --surface-3: #1f3d5a;
+  --surface-glass: rgba(17, 38, 58, 0.86);
+  --border: #294967;
+  --border-soft: #203d59;
+  --border-strong: #4c83a8;
+  --ink: #e8f6ff;
+  --ink-soft: #bdd7e8;
+  --ink-mute: #86a9bf;
+  --primary: #70cfff;
+  --primary-strong: #aee5ff;
+  --primary-soft: #1c4764;
+  --accent: #a6dd7b;
+  --accent-strong: #cbf2aa;
+  --accent-soft: #1d3d27;
+  --gold: #f4c44a;
+  --silver: #d0d8e0;
+  --bronze: #d49a6a;
+  --green-bg: #1f4030;
+  --green-text: #7ad99c;
+  --orange-bg: #4a2c1a;
+  --orange-text: #ffb084;
+  --red: #ff7575;
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.40);
+  --shadow: 0 8px 24px rgba(0, 0, 0, 0.50);
+  --shadow-lg: 0 16px 40px rgba(0, 0, 0, 0.60);
+}

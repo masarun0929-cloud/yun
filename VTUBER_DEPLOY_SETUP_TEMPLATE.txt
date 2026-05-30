@@ -1,0 +1,374 @@
+他VTuber向け 歌唱データベース公開セットアップ手順
+==================================================
+
+このメモは、一色イズ歌唱データベースと同じ構成を、別のVTuber用に作るための手順です。
+フォルダ名、サイト名、GitHubリポジトリ名、Cloudflare D1名だけ置き換えて使います。
+
+
+1. 想定するGitHub構成
+--------------------
+
+repository/
+  .github/
+    workflows/
+      update-static-data.yml
+  vtuber-songlist/
+    songlist.csv
+    setlist.csv
+    live-setlist.csv
+    songlist_site template/
+      docs/
+      functions/
+      d1/
+      tools/
+      package.json
+
+Cloudflare Pagesでは docs を公開します。
+ただし functions も使うため、Cloudflare PagesのRoot directoryは docs ではなく、
+1つ上の songlist_site template にします。
+
+
+2. Cloudflare Pagesの作成
+------------------------
+
+Cloudflare Dashboard
+→ Workers & Pages
+→ Create
+→ Pages
+→ GitHubリポジトリを選択
+
+Build settings:
+
+Root directory:
+vtuber-songlist/songlist_site template
+
+Build command:
+空欄
+
+Build output directory:
+docs
+
+公開されるURL例:
+
+https://example.pages.dev/
+https://example.pages.dev/admin
+https://example.pages.dev/data/songs.json
+https://example.pages.dev/api/data
+
+
+3. Cloudflare D1の作成
+---------------------
+
+Cloudflare Dashboard
+→ Storage & databases
+→ D1 SQL database
+→ Create database
+
+Database name例:
+vtuber-songlist-db
+
+D1 Consoleで、以下の順番でSQLを実行します。
+
+1. d1/schema.sql
+2. d1/generated/songlist_seed.sql
+3. d1/generated/setlist_seed.sql
+4. live_events / live_event_songs 用SQL
+
+確認SQL:
+
+SELECT 'songs' AS table_name, COUNT(*) AS count FROM songs
+UNION ALL
+SELECT 'artists', COUNT(*) FROM artists
+UNION ALL
+SELECT 'streams', COUNT(*) FROM streams
+UNION ALL
+SELECT 'stream_songs', COUNT(*) FROM stream_songs
+UNION ALL
+SELECT 'live_events', COUNT(*) FROM live_events
+UNION ALL
+SELECT 'live_event_songs', COUNT(*) FROM live_event_songs;
+
+
+4. Cloudflare PagesにD1 Bindingを設定
+------------------------------------
+
+Cloudflare Pages
+→ 対象プロジェクト
+→ Settings
+→ Bindings
+→ D1 database bindings
+
+Variable name:
+DB
+
+Database:
+作成したD1データベース
+
+注意:
+Variable nameは必ず DB にします。
+違う名前にすると /api/data で以下のようなエラーになります。
+
+{"error":"D1 binding DB is missing"}
+
+
+5. Cloudflare API Tokenの作成
+----------------------------
+
+Cloudflare右上アイコン
+→ My Profile
+→ API Tokens
+→ Create Token
+→ Custom token
+
+設定例:
+
+Token name:
+vtuber-songlist-d1-token
+
+Permissions:
+Account / D1 / Edit
+
+Account Resources:
+Include / 対象のCloudflare Account
+
+作成後に表示されるTokenをコピーします。
+このTokenは再表示できないため、すぐGitHub Secretsへ登録します。
+
+GitHub Actions用に必要な値:
+
+CLOUDFLARE_API_TOKEN
+作成したCloudflare API Token
+
+CLOUDFLARE_ACCOUNT_ID
+Cloudflare Account ID
+
+CLOUDFLARE_D1_DATABASE_ID
+D1 Database ID
+
+Account IDの場所:
+Cloudflare Dashboard → Account Homeなどに表示される Account ID
+
+D1 Database IDの場所:
+Cloudflare → D1 SQL database → 対象DB → Settings または Overview → Database ID
+
+
+6. GitHub Secretsの設定
+----------------------
+
+GitHub
+→ 対象Repository
+→ Settings
+→ Secrets and variables
+→ Actions
+→ New repository secret
+
+以下を追加します。
+
+CLOUDFLARE_API_TOKEN
+CLOUDFLARE_ACCOUNT_ID
+CLOUDFLARE_D1_DATABASE_ID
+
+GitHub Actionsが docs/data/*.json をcommit/pushするため、以下も設定します。
+
+GitHub
+→ Settings
+→ Actions
+→ General
+→ Workflow permissions
+
+Read and write permissions を選択します。
+
+
+7. GitHub Actions workflow
+--------------------------
+
+.github/workflows/update-static-data.yml を作成します。
+vtuber-songlist は実際のGitHubフォルダ名に置き換えてください。
+
+name: Update static data
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-static-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate docs/data JSON from D1
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_D1_DATABASE_ID: ${{ secrets.CLOUDFLARE_D1_DATABASE_ID }}
+        run: node "vtuber-songlist/songlist_site template/tools/generate_static_data.mjs"
+
+      - name: Commit and push static data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "vtuber-songlist/songlist_site template/docs/data/meta.json" \
+                  "vtuber-songlist/songlist_site template/docs/data/songs.json" \
+                  "vtuber-songlist/songlist_site template/docs/data/streams.json" \
+                  "vtuber-songlist/songlist_site template/docs/data/lives.json"
+          if git diff --cached --quiet; then
+            echo "No static data changes."
+          else
+            git commit -m "Update static data"
+            git push
+          fi
+
+
+8. 管理画面からGitHub Actionsを起動する場合
+------------------------------------------
+
+Cloudflare Pages
+→ 対象プロジェクト
+→ Settings
+→ Environment variables
+
+以下を追加します。
+
+ADMIN_TOKEN
+GITHUB_ACTIONS_TOKEN
+GITHUB_OWNER
+GITHUB_REPO
+GITHUB_STATIC_WORKFLOW
+GITHUB_STATIC_REF
+
+例:
+
+ADMIN_TOKEN=任意の管理用パスワード
+GITHUB_OWNER=github-user-name
+GITHUB_REPO=repository-name
+GITHUB_STATIC_WORKFLOW=update-static-data.yml
+GITHUB_STATIC_REF=main
+
+
+9. GitHub Fine-grained Personal Access Tokenの作成
+------------------------------------------------
+
+GitHub右上アイコン
+→ Settings
+→ Developer settings
+→ Personal access tokens
+→ Fine-grained tokens
+→ Generate new token
+
+設定例:
+
+Token name:
+vtuber-songlist-actions-dispatch
+
+Expiration:
+90 days または 180 days 推奨
+
+Resource owner:
+対象リポジトリの所有者
+
+Repository access:
+Only select repositories
+
+Selected repositories:
+対象Repository
+
+Permissions:
+
+Actions:
+Read and write
+
+Metadata:
+Read-only
+
+作成後に表示されるTokenをコピーします。
+Cloudflare PagesのEnvironment variablesに GITHUB_ACTIONS_TOKEN として登録します。
+
+注意:
+このGitHub Tokenは、管理画面からGitHub Actionsを起動するためのものです。
+GitHub Actions内でD1からJSONを生成するためのCloudflare API Tokenとは別物です。
+
+
+10. 通常の更新フロー
+-------------------
+
+1. D1 Console または管理画面で曲、セトリ、ライブ情報を更新する
+2. 管理画面の「静的データ生成」を押す
+   または GitHub Actions → Update static data → Run workflow を実行する
+3. docs/data/*.json がGitHubにcommitされる
+4. Cloudflare Pagesが自動デプロイされる
+5. 公開サイトに反映される
+
+確認URL:
+
+https://example.pages.dev/data/songs.json
+https://example.pages.dev/data/streams.json
+https://example.pages.dev/data/lives.json
+
+キャッシュ確認:
+
+https://example.pages.dev/data/songs.json?v=check1
+
+
+11. よくあるエラー
+-----------------
+
+D1 binding DB is missing
+原因:
+Cloudflare PagesのD1 Binding名が DB ではない。
+
+対応:
+Pages → Settings → Bindings → D1 database bindings で Variable name を DB にする。
+
+
+Unexpected token '<', "<!DOCTYPE"... is not valid JSON
+原因:
+/api/data がJSONではなくHTMLを返している。
+functions が認識されていない可能性が高い。
+
+対応:
+Cloudflare PagesのRoot directoryを確認する。
+Root directoryは docs ではなく songlist_site template。
+
+
+songs.json が更新されない
+原因候補:
+workflow内のフォルダ名が違う。
+GitHub ActionsのWrite権限がない。
+CLOUDFLARE_D1_DATABASE_IDが違う。
+git add対象パスが違う。
+
+対応:
+.github/workflows/update-static-data.yml のパスを実フォルダ名に合わせる。
+GitHub ActionsのWorkflow permissionsをRead and writeにする。
+D1 Database IDを確認する。
+
+
+No data
+原因:
+INSERT / UPDATE / DELETE は成功しても表示する結果がないため No data と出る。
+
+対応:
+SELECT COUNT(*) で件数確認する。
+
+
+12. 参考公式ドキュメント
+----------------------
+
+Cloudflare API Tokens:
+https://developers.cloudflare.com/fundamentals/api/get-started/create-token/
+
+Cloudflare Pages Bindings:
+https://developers.cloudflare.com/pages/functions/bindings/
+
+GitHub fine-grained personal access tokens:
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
+
+GitHub Actions GITHUB_TOKEN:
+https://docs.github.com/en/actions/security-guides/automatic-token-authentication

@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="ja" data-theme="auto">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>さざなみゆん　歌唱データベース｜歌った曲リスト・ランキング・検索</title>
+<meta name="description" content="さざなみゆんさんの歌った曲リスト、歌唱回数ランキング、検索をまとめた歌唱データベース。">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<link rel="canonical" href="/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="さざなみゆん　歌唱データベース">
+<meta property="og:title" content="さざなみゆん　歌唱データベース">
+<meta property="og:description" content="さざなみゆんさんの歌った曲リスト、ランキング、検索をまとめた歌唱データベース。">
+<meta property="og:url" content="/">
+<meta property="og:image" content="assets/site-icon.svg">
+<meta name="twitter:card" content="summary">
+<link rel="icon" type="image/svg+xml" href="assets/site-icon.svg?v=20260528-sazanami">
+<link rel="apple-touch-icon" href="assets/site-icon.svg?v=20260528-sazanami">
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;800&display=swap" rel="stylesheet">
+<link rel="preload" href="/data/meta.json" as="fetch" type="application/json">
+<link rel="preload" href="/data/songs.json" as="fetch" type="application/json">
+<link rel="preload" href="/data/streams.json" as="fetch" type="application/json">
+<script type="importmap">
+{
+  "imports": {
+    "fuse": "https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.mjs"
+  }
+}
+</script>
+<link rel="modulepreload" href="js/main.js?v=20260528-sazanami-5">
+<link rel="stylesheet" href="css/theme.css?v=20260528-sazanami-3">
+<link rel="stylesheet" href="css/components.css?v=20260528-sazanami-6">
+<link rel="stylesheet" href="css/views.css?v=20260528-sazanami-3">
+</head>
+<body>
+
+<aside class="bubbles" aria-hidden="true">
+  <span class="bubble b1"></span>
+  <span class="bubble b2"></span>
+  <span class="bubble b3"></span>
+  <span class="bubble b4"></span>
+</aside>
+
+<header class="topbar">
+  <div class="topbar-inner container">
+    <a class="brand" href="./" aria-label="歌唱データベース ホーム">
+      <img class="brand-icon" src="assets/site-icon.svg?v=20260528-sazanami" alt="" width="28" height="28">
+      <span class="brand-text">
+        <span class="brand-title">さざなみゆん <span class="brand-dim">Database</span></span>
+        <span class="brand-sub">Sazanami Yun</span>
+      </span>
+    </a>
+    <input class="mobile-menu-state" id="mobile-menu-state" type="checkbox" aria-hidden="true">
+    <label class="mobile-menu-toggle" id="mobile-menu-toggle" for="mobile-menu-state" role="button" tabindex="0" aria-expanded="false" aria-controls="topbar-actions">
+      <span id="mobile-menu-label">メインch / リスナー</span>
+      <span class="mobile-menu-icon" aria-hidden="true">☰</span>
+    </label>
+    <div class="topbar-actions" id="topbar-actions">
+      <div class="channel-switch" id="channel-switch" role="group" aria-label="チャンネル切替">
+        <button class="ch-btn active" data-channel="new" type="button">歌った曲リスト</button>
+      </div>
+      <div class="channel-switch audience-switch" id="audience-switch" role="group" aria-label="利用モード切替">
+        <button class="ch-btn active" data-audience="listener" type="button">リスナー</button>
+        <button class="ch-btn"        data-audience="singer" type="button">配信者</button>
+      </div>
+      <nav class="official-links topbar-official-links" aria-label="公式リンク">
+        <span class="topbar-official-label">Official Channel</span>
+        <a class="official-link youtube" href="https://www.youtube.com/@sazanamiyun" target="_blank" rel="noopener">YouTube</a>
+        <a class="official-link x-link" href="https://x.com/saza_kami" target="_blank" rel="noopener">X</a>
+      </nav>
+      <button class="theme-toggle" id="theme-toggle" type="button" aria-label="テーマ切替">
+        <span class="theme-icon" id="theme-icon">🌗</span>
+        <span class="theme-label" id="theme-label">auto</span>
+      </button>
+      <button class="icon-btn help-btn" id="help-btn" type="button" title="使い方" aria-label="使い方を表示">
+        ?
+      </button>
+      <button class="icon-btn" id="reload-btn" type="button" title="データを再取得" aria-label="再取得">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 0 1 15.5-6.3L21 8"/><path d="M21 3v5h-5"/><path d="M21 12a9 9 0 0 1-15.5 6.3L3 16"/><path d="M3 21v-5h5"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main class="container">
+
+  <!-- Hero -->
+  <section class="hero" id="hero">
+    <h1 id="page-title" class="hero-title">⚓ さざなみゆん　歌唱データベース</h1>
+    <p class="hero-sub">~ Sazanami Yun Song Archive ~</p>
+    <p class="hero-updated" id="updated-info">読み込み中…</p>
+    <div class="stats-grid" id="stats-grid">
+      <div class="stat-card placeholder"></div>
+      <div class="stat-card placeholder"></div>
+      <div class="stat-card placeholder"></div>
+      <div class="stat-card placeholder"></div>
+      <div class="stat-card placeholder"></div>
+      <div class="stat-card placeholder"></div>
+    </div>
+  </section>
+
+  <!-- Tabs -->
+  <nav class="tabs" role="tablist" aria-label="セクション">
+    <button class="tab-btn active" data-tab="dashboard" role="tab">📊 ダッシュボード</button>
+    <button class="tab-btn" data-tab="ranking"   role="tab">🏆 ランキング</button>
+    <button class="tab-btn" data-tab="songs"     role="tab">🎵 全曲リスト</button>
+    <button class="tab-btn" data-tab="timeline"  role="tab">📅 タイムライン</button>
+    <button class="tab-btn" data-tab="analytics" role="tab">📈 アナリティクス</button>
+  </nav>
+
+  <!-- Panels -->
+  <div class="panels">
+    <section class="panel active" id="panel-dashboard" role="tabpanel"></section>
+    <section class="panel"        id="panel-ranking"   role="tabpanel"></section>
+    <section class="panel"        id="panel-songs"     role="tabpanel"></section>
+    <section class="panel"        id="panel-timeline"  role="tabpanel"></section>
+    <section class="panel"        id="panel-analytics" role="tabpanel"></section>
+  </div>
+
+  <div id="loading" class="state-card" hidden>
+    <div class="spinner"></div>
+    <div class="msg">スプレッドシートからデータを取得中…</div>
+  </div>
+  <div id="error" class="state-card" hidden>
+    <div class="msg">⚠️ データの取得に失敗しました</div>
+    <div class="err-detail" id="err-detail"></div>
+    <button class="btn primary" id="retry-btn" type="button">再試行</button>
+  </div>
+
+</main>
+
+<footer class="site-footer">
+  <p>
+    Made with <span class="heart">♡</span> for fans &nbsp;·&nbsp;
+  </p>
+</footer>
+
+<div class="modal-backdrop" id="help-modal" hidden>
+  <section class="help-dialog" role="dialog" aria-modal="true" aria-labelledby="help-title">
+    <div class="help-head">
+      <div>
+        <p class="help-kicker">Guide</p>
+        <h2 id="help-title">使い方</h2>
+        <p class="help-lead">曲を探す、歌枠をたどる、配信用の選曲を作るための歌唱データベースです。</p>
+      </div>
+      <button class="icon-btn help-close" id="help-close" type="button" aria-label="閉じる">×</button>
+    </div>
+    <div class="guide-flow" aria-label="基本の流れ">
+      <div class="guide-step">
+        <span>1</span>
+        <strong>範囲を選ぶ</strong>
+        <p>メインch・サブch・全期間を切り替えて、見たいデータだけに絞ります。</p>
+      </div>
+      <div class="guide-step">
+        <span>2</span>
+        <strong>曲を探す</strong>
+        <p>全曲リストで曲名、アーティスト、ジャンル、タグから探せます。</p>
+      </div>
+      <div class="guide-step">
+        <span>3</span>
+        <strong>履歴を見る</strong>
+        <p>曲詳細やタイムラインから、どの歌枠で歌ったか確認できます。</p>
+      </div>
+    </div>
+    <div class="guide-sections">
+      <section class="guide-section">
+        <h3>データ範囲とモード</h3>
+        <ul>
+          <li>ヘッダーのメインch・サブch・全期間は、表示する歌唱データの範囲です。</li>
+          <li>リスナーモードは閲覧向け、配信者モードは選曲・セトリ作成向けです。</li>
+          <li>Official Channel は公式YouTube・Xへの外部リンクです。</li>
+        </ul>
+      </section>
+      <section class="guide-section">
+        <h3>曲を探す</h3>
+        <ul>
+          <li>全曲リストでは曲名・アーティスト名・ジャンルで検索できます。</li>
+          <li>タグを押すと、その雰囲気や季節の曲だけに絞り込めます。</li>
+          <li>おすすめ選曲は、現在の絞り込み条件から候補を出します。</li>
+        </ul>
+      </section>
+      <section class="guide-section">
+        <h3>曲詳細とタイムライン</h3>
+        <ul>
+          <li>曲を押すと、歌唱回数、最後に歌った日、歌枠履歴を見られます。</li>
+          <li>曲詳細の歌枠を押すと、該当するタイムラインへ移動できます。</li>
+          <li>タイムラインでは歌枠ごとのセトリとYouTubeリンクを確認できます。</li>
+        </ul>
+      </section>
+      <section class="guide-section">
+        <h3>配信者モード</h3>
+        <ul>
+          <li>定番、久しぶり、レアなどから選曲候補を探せます。</li>
+          <li>＋セトリで曲を追加し、並び替えてコピーできます。</li>
+          <li>タイムラインでは歌枠のセトリをタイムスタンプ用にコピーできます。</li>
+        </ul>
+      </section>
+      <section class="guide-section">
+        <h3>便利な操作</h3>
+        <ul>
+          <li>下へスクロールすると、右下にページ上部へ戻るTOPボタンが出ます。</li>
+          <li>スマホではヘッダーのメニューから範囲、モード、公式リンクを操作できます。</li>
+          <li>右上の更新ボタンでデータを再読み込みできます。</li>
+        </ul>
+      </section>
+      <section class="guide-section">
+        <h3>反映がおかしいとき</h3>
+        <ul>
+          <li>データ更新直後は、数分待ってから再読み込みしてください。</li>
+          <li>古い表示が残る場合は、ブラウザのハードリロードを試してください。</li>
+          <li>曲名、ジャンル、表示の不具合はお問い合わせから連絡できます。</li>
+        </ul>
+      </section>
+    </div>
+  </section>
+</div>
+
+<div class="welcome-tip" id="welcome-tip" hidden>
+  <div>
+    <strong>まずは範囲とモードを選べます</strong>
+    <span>閲覧はリスナー、選曲やセトリ作成は配信者モード。詳しい使い方はヘッダーの「?」から見られます。</span>
+  </div>
+  <button class="icon-btn help-close" id="welcome-close" type="button" aria-label="閉じる">×</button>
+</div>
+
+<div class="modal-backdrop" id="song-modal" hidden>
+  <section class="help-dialog song-dialog" role="dialog" aria-modal="true" aria-labelledby="song-modal-title">
+    <div class="help-head">
+      <div>
+        <p class="help-kicker">Song Detail</p>
+        <h2 id="song-modal-title">曲詳細</h2>
+      </div>
+      <button class="icon-btn help-close" id="song-modal-close" type="button" aria-label="閉じる">×</button>
+    </div>
+    <div id="song-modal-body"></div>
+  </section>
+</div>
+
+<button class="page-top-toast" id="page-top-toast" type="button" aria-label="ページ上部へ移動" hidden>
+  <span>↑</span>
+  <strong>TOP</strong>
+</button>
+
+<!-- Dependencies -->
+<script type="module" src="js/main.js?v=20260528-sazanami-5"></script>
+
+</body>
+</html>
