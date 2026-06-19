@@ -470,7 +470,7 @@ async function triggerStaticDataWorkflow(env) {
   const token = env.GITHUB_ACTIONS_TOKEN || env.GITHUB_TOKEN;
   if (!token) throw new Error('GITHUB_ACTIONS_TOKEN is missing');
   const owner = env.GITHUB_OWNER || 'masarun0929-cloud';
-  const repo = env.GITHUB_REPO || 'issiki-is';
+  const repo = env.GITHUB_REPO || 'yun';
   const workflow = env.GITHUB_STATIC_WORKFLOW || 'update-static-data.yml';
   const ref = env.GITHUB_STATIC_REF || 'main';
   const response = await fetch(`https://api.github.com/repos/${owner}/${repo}/actions/workflows/${workflow}/dispatches`, {
